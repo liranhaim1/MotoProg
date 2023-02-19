@@ -1,0 +1,378 @@
+[
+    {
+        "id": "500055",
+        "question": "Can you explain the difference between file structure and storage structure",
+        "optionA": "The difference is that the storage structure has data stored in the memory of the computer system, whereas the file structure has the data stored in the auxiliary memory.",
+        "optionB": "The difference is that the storage structure has data stored in the auxiliary memory, whereas the file structure has the data stored in the computer system.",
+        "optionC": "There is no difference",
+        "optionD": "Both file structure and storage structure have data stored in the memory of the computer system, but storage structure is more efficient",
+        "answer": "The difference is that the storage structure has data stored in the memory of the computer system, whereas the file structure has the data stored in the auxiliary memory."
+    },
+    {
+        "id": "500056",
+        "question": "Can you explain the Difference between Array and Linked List?",
+        "optionA": "The memory size of a array is allocated during runtime, The memory size of an linked list is fixed and cannot be changed during runtime",
+        "optionB": "Operations like insertion and deletion take longer time in an linked list, Operations like insertion and deletion are faster in the array.",
+        "optionC": "There is no difference",
+        "optionD": "An array's elements are not dependent on one another, linked list elements are dependent on one another. ",
+        "answer": "An array's elements are not dependent on one another, linked list elements are dependent on one another. "
+    },
+
+    {
+        "id": "500057",
+        "question": "f the size of the stack is 10 and we try to add the 11th element in the stack then the condition is known as___?",
+        "optionA": "Underflow",
+        "optionB": "Garbage collection",
+        "optionC": "Overflow",
+        "optionD": "None of the above",
+        "answer": "Overflow"
+    },
+
+    {
+        "id": "500058",
+        "question": "Which data structure is mainly used for implementing the recursive algorithm?",
+        "optionA": "Queue",
+        "optionB": "Stack",
+        "optionC": "Binary tree",
+        "optionD": "Linked list",
+        "answer": "Stack"
+    },
+
+    {
+        "id": "500059",
+        "question": "Which data structure is required to convert the infix to prefix notation?",
+        "optionA": "Stack",
+        "optionB": "Linked list",
+        "optionC": "Binary tree",
+        "optionD": "Queue",
+        "answer": "Stack"
+    },
+
+    {
+        "id": "500060",
+        "question": "Which of the following is not the correct statement for a stack data structure?",
+        "optionA": "Arrays can be used to implement the stack",
+        "optionB": "Stack follows FIFO",
+        "optionC": "Elements are stored in a sequential manner",
+        "optionD": "Top of the stack contains the last inserted element",
+        "answer": "Stack follows FIFO"
+    },
+
+    {
+        "id": "500061",
+        "question": "Which one of the following is not the type of the Queue?",
+        "optionA": "Linear Queue",
+        "optionB": "Circular Queue",
+        "optionC": "Double ended Queue",
+        "optionD": "Single ended Queue",
+        "answer": "Single ended Queue"
+    },
+
+    {
+        "id": "500062",
+        "question": " Which one of the following is the overflow condition if a circular queue is implemented using array having size MAX?",
+        "optionA": "rear= MAX-1",
+        "optionB": "rear=MAX",
+        "optionC": "front=(rear+1) mod max",
+        "optionD": "None of the above",
+        "answer": "front=(rear+1) mod max"
+    },
+
+    {
+        "id": "500063",
+        "question": " The time complexity of enqueue operation in Queue is __?",
+        "optionA": "O(1)",
+        "optionB": "O(n)",
+        "optionC": "O(logn)",
+        "optionD": "O(nlogn)",
+        "answer": "O(1)"
+    },
+
+    {
+        "id": "500064",
+        "question": "Which of the following that determines the need for the Circular Queue?",
+        "optionA": "Avoid wastage of memory",
+        "optionB": "Access the Queue using priority",
+        "optionC": "Follows the FIFO principle",
+        "optionD": "None of the above",
+        "answer": "Avoid wastage of memory"
+    },
+
+    {
+        "id": "500065",
+        "question": " In the linked list implementation of queue, where will the new element be inserted?",
+        "optionA": "At the tail position of the linked list",
+        "optionB": "At the middle position of the linked list",
+        "optionC": "At the head position of the linked list",
+        "optionD": "None of the above",
+        "answer": "At the tail position of the linked list"
+    },
+
+    {
+        "id": "500066",
+        "question": "How many Queues are required to implement a Stack?",
+        "optionA": "3",
+        "optionB": "2",
+        "optionC": "1",
+        "optionD": "4",
+        "answer": "2"
+    },
+
+    {
+        "id": "500067",
+        "question": "Which one of the following is not the application of the Queue data structure?",
+        "optionA": "Resource shared between various systems",
+        "optionB": "Data is transferred asynchronously",
+        "optionC": "Load balancing",
+        "optionD": "Balancing of symbols",
+        "answer": "Balancing of symbols"
+    },
+
+    {
+        "id": "500068",
+        "question": "Which of the following option is true if implementation of Queue is from the linked list?",
+        "optionA": "In enqueue operation, new nodes are inserted from the beginning and in dequeue operation, nodes are removed from the end.",
+        "optionB": "In enqueue operation, new nodes are inserted from the end and in dequeue operation, nodes are deleted from the beginning.",
+        "optionC": "In enqueue operation, new nodes are inserted from the end and in dequeue operation, nodes are deleted from the end.",
+        "optionD": "Both a and b",
+        "answer": "Both a and b"
+    },
+    {
+        "id": "500069",
+        "question": "The necessary condition to be checked before deletion from the Queue is__?",
+        "optionA": "Overflow",
+        "optionB": "Underflow",
+        "optionC": "Rear value",
+        "optionD": "Front value",
+        "answer": "Underflow"
+
+    },
+	{
+        "id": "500335",
+        "question": "Can you explain the difference between stack and queue data structure?",
+        "optionA": "Stack is based on FIFO(First In First Out)) principle, Queue is based on LIFO(Last In First Out)  principle ",
+        "optionB": "Stack is a linear data structure where data is added and removed from the top, The Queue is a linear data structure where data is ended at the rear end and removed from the front",
+        "optionC": "There is no difference",
+        "optionD": "Delete operation in Stack is known as dequeue, Delete operation in Queue is known as pop",
+        "answer": "Stack is a linear data structure where data is added and removed from the top, The Queue is a linear data structure where data is ended at the rear end and removed from the front"
+    },
+	{
+		"id": "500336",
+        "question": "Minimum number of fields in each node of a doubly linked list is __",
+        "optionA": "2",
+        "optionB": "3",
+        "optionC": "4",
+        "optionD": "None of the above",
+        "answer": "3"
+    },
+
+    {
+		"id": "500337",
+        "question": "A graph in which all vertices have equal degree is known as ____",
+        "optionA": "Complete graph",
+        "optionB": "Regular graph",
+        "optionC": "Multi graph",
+        "optionD": "Simple graph",
+        "answer": "Complete graph"
+    },
+
+    {
+		"id": "500338",
+        "question": "A vertex of in-degree zero in a directed graph is called a/an",
+        "optionA": "Root vertex",
+        "optionB": "Isolated vertex",
+        "optionC": "Sink",
+        "optionD": "Articulation point",
+        "answer": "Sink"
+    },
+
+    {
+		"id": "500339",
+        "question": "A graph is a tree if and only if graph is",
+        "optionA": "Directed graph",
+        "optionB": "Contains no cycles",
+        "optionC": "Planar",
+        "optionD": "Completely connected",
+        "answer": "Contains no cycles"
+    },
+
+    {
+		"id": "500340",
+        "question": "The elements of a linked list are stored",
+        "optionA": "In a structure",
+        "optionB": "In an array",
+        "optionC": "Anywhere the computer has space for them",
+        "optionD": "In contiguous memory locations",
+        "answer": "Anywhere the computer has space for them"
+    },
+
+    {
+		"id": "500341",
+        "question": "A parentheses checker program would be best implemented using",
+        "optionA": "List",
+        "optionB": "Queue",
+        "optionC": "Stack",
+        "optionD": "Any of the above",
+        "answer": "Stack"
+    },
+
+    {
+		"id": "500342",
+        "question": "To perform level-order traversal on a binary tree, which of the following data structure will be required?",
+        "optionA": "Hash table",
+        "optionB": "Queue",
+        "optionC": "Binary search tree",
+        "optionD": "Stack",
+        "answer": "Queue"
+    },
+
+    {
+		"id": "500343",
+        "question": "Which of the following data structure is required to convert arithmetic expression in infix to its equivalent postfix notation?",
+        "optionA": "Queue",
+        "optionB": "Linked list",
+        "optionC": "Binary search tree",
+        "optionD": "None of above",
+        "answer": "None of above"
+    },
+
+    {
+		"id": "500344",
+        "question": "A binary tree in which all its levels except the last, have maximum numbers of nodes, and all the nodes in the last level have only one child it will be its left child. Name the tree.",
+        "optionA": "Threaded tree",
+        "optionB": "Complete binary tree",
+        "optionC": "M-way search tree",
+        "optionD": "Full binary tree",
+        "answer": "Complete binary tree"
+    },
+
+    {
+		"id": "500345",
+        "question": "Which of following data structure is more appropriate for implementing quick sort iteratively?",
+        "optionA": "Deque",
+        "optionB": "Queue",
+        "optionC": "Stack",
+        "optionD": "Priority queue",
+        "answer": "Stack"
+    },
+
+    {
+		"id": "500346",
+        "question": "The number of edges in a complete graph of n vertices is",
+        "optionA": "n(n+1)/2",
+        "optionB": "n(n-1)/2",
+        "optionC": "n^2/2",
+        "optionD": "n",
+        "answer": "n(n-1)/2"
+    },
+
+    {
+		"id": "500347",
+        "question": "If two trees have same structure and but different node content, then they are called ___",
+        "optionA": "Synonyms trees",
+        "optionB": "Joint trees",
+        "optionC": "Equivalent trees",
+        "optionD": "Similar trees",
+        "answer": "Similar trees"
+    },
+
+    {
+		"id": "500348",
+        "question": "The time complexity of quicksort is___",
+        "optionA": "O(n)",
+        "optionB": "O(logn)",
+        "optionC": "O(n^2)",
+        "optionD": "O(nlogn)",
+        "answer": "O(nlogn)"
+    },
+    {
+		"id": "500349",
+        "question": "___ form of access is used to add and remove nodes from a queue",
+        "optionA": "LIFO, Last In First Out",
+        "optionB": "FIFO, First In First Out",
+        "optionC": "Both a and b",
+        "optionD": "None of these",
+        "answer": "FIFO, First In First Out"
+    },
+    {
+		"id": "500350",
+        "question": "New nodes are added to the___of the queue.",
+        "optionA": "Front",
+        "optionB": "Back",
+        "optionC": "Middle",
+        "optionD": "Both A and B",
+        "answer": "Back"
+    },
+    {
+		"id": "500351",
+        "question": "The term push and pop is related to ___",
+        "optionA": "Array",
+        "optionB": "Lists",
+        "optionC": "Stacks",
+        "optionD": "Trees",
+        "answer": "Stacks"
+    },
+    {
+		"id": "500352",
+        "question": "Which of the following are two-way lists?",
+        "optionA": "Grounded header list",
+        "optionB": "Circular header list",
+        "optionC": "Linked list with header and trailer nodes",
+        "optionD": "List traversed in two directions",
+        "answer": "List traversed in two directions"
+    },
+    {
+		"id": "500353",
+        "question": "Which of the following data structure can’t store the non-homogeneous data elements?",
+        "optionA": "Arrays",
+        "optionB": "Records",
+        "optionC": "Pointers",
+        "optionD": "Stacks",
+        "answer": "Arrays"
+    },
+    {
+		"id": "500354",
+        "question": "Which of the following is non-liner data structure?",
+        "optionA": "Stacks",
+        "optionB": "Lists",
+        "optionC": "Strings",
+        "optionD": "Trees",
+        "answer": "Trees"
+    },
+    {
+		"id": "500355",
+        "question": "To represent hierarchical relationship between elements, which data structure is suitable?",
+        "optionA": "Dequeue",
+        "optionB": "Priority",
+        "optionC": "Tree",
+        "optionD": "Graph",
+        "answer": "Tree"
+    },
+    {
+		"id": "500356",
+        "question": "Linked lists are best suited ___",
+        "optionA": "for relatively permanent collections of data.",
+        "optionB": "the size of the structure and the data in the structure are constantly changing.",
+        "optionC": "data structure",
+        "optionD": "for none of the above situation",
+        "answer": "the size of the structure and the data in the structure are constantly changing."
+    },
+    {
+		"id": "500357",
+        "question": "The operation of processing each element in the list is known as__",
+        "optionA": "sorting",
+        "optionB": "merging",
+        "optionC": "inserting",
+        "optionD": "traversal",
+        "answer": "traversal"
+    },
+    {
+		"id": "500358",
+        "question": "Which if the following is/are the levels of implementation of data structure",
+        "optionA": "Abstract level",
+        "optionB": "Application level",
+        "optionC": "Implementation level",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    }
+]

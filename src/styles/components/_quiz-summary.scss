@@ -1,0 +1,155 @@
+.quiz-summary {
+  font-family: $inter;
+
+  span.success-icon {
+    color: $green;
+    font-size: $xxlg;
+  }
+
+  h1 {
+    color: $green;
+    text-align: center;
+    font-size: $lg;
+    margin-top: -2.5rem;
+    font-family: $roboto;
+  }
+
+  h2 {
+    color: $blue;
+  }
+
+  h4 {
+    color: lighten($off-black, 10%);
+  }
+
+  .stats {
+    background-color: rgba(255, 255, 255, 0.75);
+    max-width: 40rem;
+    border-radius: 15px;
+    padding: $sm $md $lg $md;
+    margin: auto;
+    text-align: center;
+  }
+
+  .stats h4,
+  .stats h2 {
+    text-align: center;
+  }
+
+  .stats .stat {
+    color: $off-black;
+    font-size: $normal;
+  }
+
+  section ul {
+    margin-top: $sm;
+    text-align: center;
+    display: flex;
+    color: black;
+    gap: 10px;
+    width: 100%;
+    justify-content: center;
+  }
+
+  section ul li {
+    display: inline-block;
+    padding: 10px;
+    
+  }
+
+  section ul li a {
+    /* padding: $lg; */
+  }
+
+  // section ul li a:hover {
+  //   color: $yellow;
+  // }
+
+  section ul li:first-child {
+    border: 1px solid $green;
+    transition: 0.3s linear all;
+  }
+
+  // section ul li:first-child:hover {
+  //   background-color: $green;
+  // }
+  
+  section ul li:first-child a{
+    color: $green;
+  }
+
+  section ul li:nth-child(2) {
+    border: 1px solid $yellow; 
+  }
+
+
+  // section ul li:nth-child(2):hover {
+    
+  //   background-color: $yellow;
+  // }
+
+  
+  section ul li:nth-child(2) a {
+    color: yellow;
+  }
+
+  section ul li:last-child  {
+    border: 1px solid $red;
+    transition: 0.3s linear all;
+  }
+  // section ul li:last-child :hover {
+  //   background-color: $red;
+  // }
+
+  section ul li:last-child a {
+    color: $red;
+  }
+
+ 
+
+  .no-stats {
+    color: $off-black;
+    margin: $xxlg auto;
+  }
+}
+
+						   
+@media (max-width: $md-breakpoint) {
+  .quiz-summary {
+    font-size: $sm;
+
+		
+					 
+						  
+	 
+
+		
+					 
+	 
+
+		
+					 
+	 
+
+			
+					 
+				   
+						 
+					  
+	 
+
+				
+					  
+	 
+
+				   
+				  
+					  
+	 
+
+					 
+				   
+					 
+	 
+  }
+}

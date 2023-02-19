@@ -1,0 +1,383 @@
+[
+    {
+        "id": "300000",
+        "question": "In Python 3, the maximum value for an integer is 263 - 1:",
+        "optionA": "True.",
+        "optionB": "False",
+        "answer": "False"
+       
+    },
+    {   "id": "300001",
+        "question": "Who developed Python Programming Language?",
+        "optionA": "Wick van Rossum",
+        "optionB": "Rasmus Lerdorf",
+        "optionC": "Guido van Rossum",
+        "optionD": "Niene Stom",
+        "answer": "Guido van Rossum"
+       
+    },
+    {
+        "id": "300002",
+        "question": "Which type of Programming does Python support?",
+        "optionA": "object-oriented programming",
+        "optionB": "structured programming",
+        "optionC": "functional programming",
+        "optionD": "all of the mentioned",
+        "answer": " all of the mentioned"
+    },
+    {
+        "id": "300003",
+        "question": "Is Python case sensitive when dealing with identifiers?",
+        "optionA": "No",
+        "optionB": "Yes",
+        "optionC": "machine dependent",
+        "optionD": "none of the mentioned",
+        "answer": "Yes"
+    },
+    {
+        "id": "300004",
+        "question": "Which of the following is the correct extension of the Python file?",
+        "optionA": ".python",
+        "optionB": ".pl",
+        "optionC": ".py",
+        "optionD": ".p",
+        "answer": ".py"
+    },
+    {
+        "id": "300005",
+        "question": "Is Python code compiled or interpreted?",
+        "optionA": "Python code is both compiled and interpreted",
+        "optionB": "Python code is neither compiled nor interpreted",
+        "optionC": "Python code is only compiled",
+        "optionD": "Python code is only interpreted",
+        "answer": "Python code is both compiled and interpreted"
+    
+    },
+    {
+        "id": "300006",
+        "question": "All keywords in Python are in _________",
+        "optionA": "Capitalized",
+        "optionB": "lower case",
+        "optionC": "UPPER CASE",
+        "optionD": "None of the mentioned",
+        "answer": "None of the mentioned"
+    },
+    {
+        "id": "300007",
+        "question": "Which of the following is used to define a block of code in Python language?",
+        "optionA": "Indentation",
+        "optionB": "Key",
+        "optionC": "Brackets",
+        "optionD": "All of the mentioned",
+        "answer": "Indentation"
+    },
+    {
+        "id": "300008",
+        "question": "Which keyword is used for function in Python language?",
+        "optionA": "Function",
+        "optionB": "def",
+        "optionC": "Fun",
+        "optionD": "Define",
+        "answer": "def"
+    
+    },
+    {
+        "id": "300009",
+        "question": "Which of the following character is used to give single-line comments in Python?",
+        "optionA": "//",
+        "optionB": "#",
+        "optionC": "!",
+        "optionD": "/*",
+        "answer": "#"
+    
+    },
+    {
+        "id": "300010",
+        "question": "Which of the following functions can help us to find the version of python that we are currently working on?",
+        "optionA": "sys.version(1)",
+        "optionB": "sys.version(0)",
+        "optionC": "sys.version()",
+        "optionD": "sys.version",
+        "answer": "sys.version"
+    
+    },
+    {
+        "id": "300011",
+        "question": "Python supports the creation of anonymous functions at runtime, using a construct called __________",
+        "optionA": "pi",
+        "optionB": "anonymous",
+        "optionC": "lambda",
+        "optionD": "none of the mentioned",
+        "answer": "lambda"
+    
+    },
+    {
+        "id": "300012",
+        "question": "What is the order of precedence in python?",
+        "optionA": "Exponential, Parentheses, Multiplication, Division, Addition, Subtraction",
+        "optionB": "Exponential, Parentheses, Division, Multiplication, Addition, Subtraction",
+        "optionC": "Parentheses, Exponential, Multiplication, Division, Subtraction, Addition",
+        "optionD": "Parentheses, Exponential, Multiplication, Division, Addition, Subtraction",
+        "answer": "Parentheses, Exponential, Multiplication, Division, Addition, Subtraction"
+    
+    },
+    {
+        "id": "300013",
+        "question": "What will be the output of the following - x>>2 - if x=1?  ",
+        "optionA": "4",
+        "optionB": "2",
+        "optionC": "1",
+        "optionD": "8",
+        "answer": "4"
+    
+    },
+    {
+        "id": "300014",
+        "question": "What does pip stand for python?",
+        "optionA": "Pip Installs Python",
+        "optionB": "Pip Installs Packages",
+        "optionC": "Preferred Installer Program",
+        "optionD": "All of the mentioned",
+        "answer": "Preferred Installer Program"
+    
+    },
+    {
+        "id": "300015",
+        "question": "Which of the following is true for variable names in Python?",
+        "optionA": "underscore and ampersand are the only two special characters allowed",
+        "optionB": "unlimited length",
+        "optionC": "all private members must have leading and trailing underscores",
+        "optionD": "none of the mentioned",
+        "answer": "unlimited length"
+    
+    },
+    {
+        "id": "300016",
+        "question": "Which of the following is the truncation division operator in Python?",
+        "optionA": "|",
+        "optionB": "//",
+        "optionC": "/",
+        "optionD": "%",
+        "answer": "//"
+    
+    },
+    {   "id": "300017",
+        "question": "Which of the following is the truncation division operator in Python?",
+        "optionA": "|",
+        "optionB": "//",
+        "optionC": "/",
+        "optionD": "%",
+        "answer": "//"
+    
+    },
+    {
+        "id": "300018",
+        "question": "Which of the following functions is a built-in function in python?",
+        "optionA": "factorial()",
+        "optionB": "print()",
+        "optionC": "seed()",
+        "optionD": "sqrt()",
+        "answer": "print()"
+    
+    },
+    {
+        "id": "300019",
+        "question": "Which of the following is the use of id() function in python?",
+        "optionA": "Every object doesn’t have a unique id",
+        "optionB": "Id returns the identity of the object",
+        "optionC": "All of the mentioned",
+        "optionD": "None of the mentioned",
+        "answer": "Id returns the identity of the object"
+    
+    },
+    {
+        "id": "300020",
+        "question": "Which of the following is not a core data type in Python programming?",
+        "optionA": "Tuples",
+        "optionB": "Lists",
+        "optionC": "Class",
+        "optionD": "Dictionary",
+        "answer": "Class"
+    
+    },
+    {
+        "id": "300021",
+        "question": "Which of these is the definition for packages in Python?",
+        "optionA": "A set of main modules",
+        "optionB": "A folder of python modules",
+        "optionC": "A number of files containing Python definitions and statements",
+        "optionD": "A set of programs making use of Python modules",
+        "answer": "A folder of python modules"
+    
+    },
+    {
+        "id": "300022",
+        "question": "What is the order of namespaces in which Python looks for an identifier?",
+        "optionA": "Python first searches the built-in namespace, then the global namespace and finally the local namespace",
+        "optionB": "Python first searches the built-in namespace, then the local namespace and finally the global namespace",
+        "optionC": "Python first searches the local namespace, then the global namespace and finally the built-in namespace",
+        "optionD": "Python first searches the global namespace, then the local namespace and finally the built-in namespace",
+        "answer": "Python first searches the local namespace, then the global namespace and finally the built-in namespace"
+    
+    },
+    {
+        "id": "300023",
+        "question": "Which function is called when the following Python program is executed - f = foo() format(f) ?",
+        "optionA": "str()",
+        "optionB": "format()",
+        "optionC": "__str__()",
+        "optionD": "__format__()",
+        "answer": "__str__()"
+    
+    },
+    {
+        "id": "300024",
+        "question": "Which one of the following is not a keyword in Python language?",
+        "optionA": "pass",
+        "optionB": "eval",
+        "optionC": "assert",
+        "optionD": "nonlocal",
+        "answer": "eval"
+    
+    },
+    {
+        "id": "300025",
+        "question": "Which module in the python standard library parses options received from the command line?",
+        "optionA": "getarg",
+        "optionB": "getopt",
+        "optionC": "main",
+        "optionD": "os",
+        "answer": "getopt"
+    
+    },
+    {
+        "id": "300026",
+        "question": "What arithmetic operators cannot be used with strings in Python?",
+        "optionA": "*",
+        "optionB": "-",
+        "optionC": "+",
+        "optionD": "All of the mentioned",
+        "answer": "-"
+    
+    },
+    {
+        "id": "300027",
+        "question": "Which of the following statements is used to create an empty set in Python?",
+        "optionA": "()",
+        "optionB": "[]",
+        "optionC": "{}",
+        "optionD": "set()",
+        "answer": "set()"
+    
+    },
+    {
+        "id": "300028",
+        "question": "To add a new element to a list we use which Python command?",
+        "optionA": "list1.addEnd(5)",
+        "optionB": "list1.addLast(5)",
+        "optionC": "list1.append(5)",
+        "optionD": "list1.add(5)",
+        "answer": "list1.append(5)"
+    
+    },
+    {
+        "id": "300029",
+        "question": "Which one of the following is the use of function in python?",
+        "optionA": "Functions don’t provide better modularity for your application",
+        "optionB": "you can’t also create your own functions",
+        "optionC": "Functions are reusable pieces of program",
+        "optionD": "All of the mentioned",
+        "answer": "Functions are reusable pieces of program"
+    
+    },
+    {
+        "id": "300030",
+        "question": "What are the two main types of functions in Python?",
+        "optionA": "System function",
+        "optionB": "Custom function",
+        "optionC": "Built-in function & User defined function",
+        "optionD": "User function",
+        "answer": "Built-in function & User defined function"
+    
+    },
+    {
+        "id": "300031",
+        "question": "Which of the following is a Python tuple?",
+        "optionA": "{1, 2, 3}",
+        "optionB": "{}",
+        "optionC": "[1, 2, 3]",
+        "optionD": "(1, 2, 3)",
+        "answer": "(1, 2, 3)"
+    
+    },
+    {
+        "id": "300032",
+        "question": "What will be the output of the following Python expression round(4.576)?",
+        "optionA": "4",
+        "optionB": "4.6",
+        "optionC": "5",
+        "optionD": "4.5",
+        "answer": "5"
+    
+    },
+    {
+        "id": "300033",
+        "question": "Which of the following is a feature of Python DocString?",
+        "optionA": "In Python all functions should have a docstring",
+        "optionB": "Docstrings can be accessed by the __doc__ attribute on objects",
+        "optionC": "It provides a convenient way of associating documentation with Python modules, functions, classes, and methods",
+        "optionD": "All of the mentioned",
+        "answer": "All of the mentioned"
+    
+    },
+    {
+        "id": "300034",
+        "question": "What is output of print(math.pow(3, 2))?",
+        "optionA": "9.0",
+        "optionB": "None",
+        "optionC": "9",
+        "optionD": "None of the mentioned",
+        "answer": "9.0"
+    
+    },
+    {
+        "id": "300035",
+        "question": "The process of pickling in Python includes ____________?",
+        "optionA": "conversion of a Python object hierarchy into byte stream",
+        "optionB": "conversion of a datatable into a list",
+        "optionC": "conversion of a byte stream into Python object hierarchy",
+        "optionD": "conversion of a list into a datatable",
+        "answer": "conversion of a Python object hierarchy into byte stream"
+    
+    },
+    {
+        "id": "300036",
+        "question": "What is the maximum possible length of an identifier?",
+        "optionA": "31 characters",
+        "optionB": "63 characters",
+        "optionC": "79 characters",
+        "optionD": "None of the mentioned",
+        "answer": "None of the mentioned"
+    
+    },
+    {
+        "id": "300037",
+        "question": "Which of the following is invalid?",
+        "optionA": "_a = 1",
+        "optionB": "__a = 1",
+        "optionC": "__str__ = 1",
+        "optionD": "None of the mentioned",
+        "answer": "None of the mentioned"
+    
+    },
+    {
+        "id": "300038",
+        "question": "Which of the following is an invalid variable?",
+        "optionA": "my_string_1",
+        "optionB": "1st_string",
+        "optionC": "foo",
+        "optionD": "_",
+        "answer": "1st_string"
+    
+    }
+]

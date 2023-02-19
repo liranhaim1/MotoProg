@@ -1,0 +1,138 @@
+.title {
+    color: $yellow;
+    text-align: center;
+    text-shadow: 2px 2px 30px black;
+    font-size: 2.3em;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+
+
+
+
+.table {
+    max-height: 95%;
+    overflow: auto;
+    display: none;
+
+}
+
+@media screen and (max-width: 600px) {
+    .table {
+        font-size: 0.5em;
+    }
+}
+
+.table-container {
+    width: 65vw !important;
+    margin: auto;
+    margin-top: 15px !important;
+    height: 70vh;
+    padding: 25px;
+    border-radius: 25px !important;
+    
+    table thead {
+        opacity: 0.85;
+    }
+
+    @media screen and (max-width: 700px) {
+        table {
+        
+            td {
+                font-size: 1em !important;    
+            }
+            th {
+                font-size: 1em !important;    
+            }
+        }    
+    }
+    
+}
+
+.table-container > span {
+    font-size: 1.1em;
+    color: #24354D;
+    font-weight: 100;
+    padding-bottom: 20px;
+    @media screen and (max-width: 600px) {
+        font-size: 1em;
+    }
+
+    
+}
+
+.table-container::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+    background: transparent;
+    border-radius: 25px;
+    @media screen and (max-width: 700px) {
+        display: none;    
+    }
+    
+  }
+
+.table-container::-webkit-scrollbar-thumb {
+    background: rgba($color: #1877D2, $alpha: 1);
+    border-radius: 20px;
+  }
+
+  .table-container::-webkit-scrollbar-track {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.links {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    // margin: auto;
+    gap: 15px;
+    > a {
+        // background: white;
+
+        text-decoration: none;
+        color: white;
+        text-shadow: 0 2px 2px black;
+        font-size: 1em;
+        padding: 2px 15px;
+        border-radius: 8px;
+        border: 3px solid green;
+        transition: transform 100ms ease;
+        &:hover {
+            transform: scale(1.1);
+        }
+    }
+}
+
+.col-category {
+    background: rgba($color: #1D1C60, $alpha: 0.9);
+    
+    color: white;
+    padding: 5px 12px;
+    border-radius: 10px;
+}
+
+.correct-count {
+    background: rgba($color: green, $alpha: 0.6);
+    
+    color: white;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.wrong-count {
+    background: rgba($color: red, $alpha: 0.9);
+    
+    color: white;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.table-loading {
+    position: absolute;
+    left: calc(50% - 17px);
+    top: 45%;
+
+}

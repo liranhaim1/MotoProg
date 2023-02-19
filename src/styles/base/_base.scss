@@ -1,0 +1,73 @@
+/* * { */
+/*   padding: 0; */
+/*   margin: 0; */
+/* } */
+
+html, body, #root {
+  font-family: $inter;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.bg-blur {
+  background-image: url("../../assets/img/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: -1;
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  box-shadow: 0 0 2px 20px #1d0232;
+}
+
+
+.valid {
+  color: $green;
+}
+
+.warning {
+  color: $orange !important;
+}
+
+.invalid {
+  color: $red !important;
+}
+
+.toast-invalid {
+  background-color: $error-text !important;
+  border-radius: 5px !important;
+  color: $off-white !important;
+}
+
+.toast-valid {
+  background-color: $success-text !important;
+  border-radius: 5px !important;
+  color: $off-white !important;
+}
+
+.disable {
+  background-color: #ccc !important;
+  box-shadow: none !important;
+  opacity: 0.9 !important;
+  pointer-events: none;
+}
+
+.inter {
+  font-family: $inter;
+}
+
+.roboto {
+  font-family: $roboto;
+}
+
+

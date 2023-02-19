@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "name": "absorption",
+            "questions": [
+                "When I do the quiz, I think about nothing else",
+                "I get carried away by this specific quiz",
+                "When I do this quiz, I forget and the time flies",
+                "I am totally immersed in this quiz"
+            ]
+        },
+        {
+            "name": "work_enjoyment",
+            "questions": [
+                "I do this quiz with a lot of enjoyment",
+                "I feel happy during this quiz",
+                "I feel cheerful when I do this quiz",
+                "I would still do this quiz, even if my score in this quiz is not high"
+            ]
+        },
+        {
+            "name": "intrinisic_motivation",
+            "questions": [
+                "I find that I also want to do this quiz in my free time",
+                "When I am answering the quiz, I am doing it for myself",
+                "I do the quiz because I enjoy it",
+                "I get my motivation from the quiz itself, and not from the reward for it"
+            ]
+        }        
+    ],
+    "answers": [
+        "Never",
+        "Almost",
+        "Sometimes",
+        "Regularly",
+        "Often",
+        "Very often",
+        "Always"
+    ]
+}

@@ -1,0 +1,845 @@
+[
+    {
+		"id": "400070",
+        "question": "What is the implicit return type of constructor?",
+        "optionA": "No return type.",
+        "optionB": "A class object in which it is defined.",
+        "optionC": "void",
+        "optionD": "None",
+        "answer": "A class object in which it is defined."
+    },
+
+    {
+		"id": "400071",
+        "question": "When is the object created with a new keyword?",
+        "optionA": "At run time.",
+        "optionB": "At compile time.",
+        "optionC": "Depends on the code",
+        "optionD": "None",
+        "answer": "At run time."
+    },
+
+    {
+		"id": "400072",
+        "question": "Identify the incorrect constructor type.",
+        "optionA": "Friend constructor.",
+        "optionB": "Default constructor.",
+        "optionC": "Parameterized constructor.",
+        "optionD": "Copy constructor.",
+        "answer": "Friend constructor."
+    },
+
+    {
+		"id": "400073",
+        "question": "What is the number of parameters that a default constructor requires?",
+        "optionA": "0",
+        "optionB": "3",
+        "optionC": "2",
+        "optionD": "1",
+        "answer": "0"
+    },
+
+    {
+		"id": "400074",
+        "question": "Data members and member functions of a class are private. default. True or False?",
+        "optionA": "True.",
+        "optionB": "False.",
+        "optionC": "Depends on code",
+        "optionD": "None",
+        "answer": "True."
+    },
+
+    {
+		"id": "400075",
+        "question": "Under which pillar of OOPS do base class and derived class relationships come?",
+        "optionA": "Polymorphism",
+        "optionB": "Inheritance",
+        "optionC": "Encapsulation",
+        "optionD": "Abstraction",
+        "answer": "Inheritance"
+    },
+
+    {
+		"id": "400076",
+        "question": "Which of the following functions can be inherited from the base class?",
+        "optionA": "Constructor",
+        "optionB": "Destructor",
+        "optionC": "Static",
+        "optionD": "None",
+        "answer": "None"
+    },
+
+    {
+		"id": "400077",
+        "question": "Which of the following is not a type of inheritance?",
+        "optionA": "Multiple",
+        "optionB": "Multilevel",
+        "optionC": "Distributed",
+        "optionD": "Hierarchical",
+        "answer": "Distributed"
+    },
+
+    {
+		"id": "400078",
+        "question": "Why is reusability a desirable feature?",
+        "optionA": "Reduces compilation time",
+        "optionB": "Decreases testing time",
+        "optionC": "Lowers maintenance cost",
+        "optionD": "None",
+        "answer": "Decreases testing time"
+    },
+
+    {
+		"id": "400079",
+        "question": "Another name of overloading is?",
+        "optionA": "Pseudo polymorphism",
+        "optionB": "Transient polymorphism ",
+        "optionC": "Virtual polymorphism",
+        "optionD": "Ad-hoc polymorphism",
+        "answer": "Ad-hoc polymorphism"
+    },
+
+    {
+		"id": "400080",
+        "question": "On what basis is it determined, when a variable comes into existence in memory?",
+        "optionA": "Data type",
+        "optionB": "Storage class",
+        "optionC": "Scope",
+        "optionD": "All of the above",
+        "answer": "Storage class"
+    },
+
+    {
+		"id": "400081",
+        "question": "Identify the feature using which, one object can interact with another object.",
+        "optionA": "Message passing",
+        "optionB": "Message reading",
+        "optionC": "Data binding",
+        "optionD": "Data transfer",
+        "answer": "Message passing"
+    },
+
+    {
+		"id": "400082",
+        "question": "What type of inheritance does single-level inheritance support?",
+        "optionA": "Compile-time",
+        "optionB": "Runtime inheritance",
+        "optionC": "Multiple inheritance",
+        "optionD": "Language independent",
+        "answer": "Runtime inheritance"
+    },
+
+    {
+		"id": "400083",
+        "question": "Choose the option below which is shown by function overriding",
+        "optionA": "Abstraction",
+        "optionB": "Encapsulation",
+        "optionC": "Polymorphism",
+        "optionD": "Inheritance",
+        "answer": "Polymorphism"
+    },
+
+    {
+		"id": "400084",
+        "question": "Choose the option below for which instance of the class cannot be created.",
+        "optionA": "Anonymous class",
+        "optionB": "Parent class",
+        "optionC": "Nested class",
+        "optionD": "Abstract class",
+        "answer": "Abstract class"
+    },
+	
+	{
+		"id": "400085",
+        "question": "Why is a virtual function mainly used to achieve?",
+        "optionA": "Function code polymorphism",
+        "optionB": "Interpreter polymorphism",
+        "optionC": "Compile-time polymorphism",
+        "optionD": "Runtime polymorphism",
+        "answer": "Runtime polymorphism"
+    },
+	
+	{
+		"id": "400086",
+        "question": "Virtual function should be ____.",
+        "optionA": "Public",
+        "optionB": "Private",
+        "optionC": "protected",
+        "optionD": "default",
+        "answer": "Public"
+    },
+	
+	{
+		"id": "400087",
+        "question": "Why is a virtual function mainly used to achieve?",
+        "optionA": "Function code polymorphism",
+        "optionB": "Interpreter polymorphism",
+        "optionC": "Compile-time polymorphism",
+        "optionD": "Runtime polymorphism",
+        "answer": "Runtime polymorphism"
+    },
+	
+	{
+		"id": "400088",
+        "question": "Choose whether True or False: The constructor function can be constant.",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Depends on implementation",
+        "optionD": "None",
+        "answer": "False"
+    },
+	
+	{
+		"id": "400089",
+        "question": "Choose whether True or False: Object cannot be passed as a function?",
+        "optionA": "True",
+        "optionB": "False",
+        "optionC": "Depends on implementation",
+        "optionD": "None",
+        "answer": "True"
+    },
+	
+	{
+		"id": "400090",
+        "question": "____ is considered to be a partitioned area of computer memory that stores and set of operations that can access the data.",
+        "optionA": "Classes",
+        "optionB": "Objects",
+        "optionC": "Variables",
+        "optionD": "Functions",
+        "answer": "Objects"
+    },
+	
+	{
+		"id": "400091",
+        "question": "When a program is executed, the ____ interacted by sending a message to one another.",
+        "optionA": "Objects",
+        "optionB": "Classes",
+        "optionC": "Operating system",
+        "optionD": "Memory",
+        "answer": "object"
+    },
+	
+	{
+		"id": "400092",
+        "question": " What is the most striking feature of class?",
+        "optionA": "Data encapsulation",
+        "optionB": "Collection of objects of similar type",
+        "optionC": "Inheritance",
+        "optionD": "All of the above",
+        "answer": "Data encapsulation"
+    },
+	{
+		"id": "400093",
+        "question": "Why classes are known as abstract data types (ADT)?",
+        "optionA": "Because classes are user-defined data types",
+        "optionB": "Because it supports the theory of hierarchical classification",
+        "optionC": "Because it allows dynamic binding",
+        "optionD": "Because it uses the concept of data abstraction",
+        "answer": "Because it uses the concept of data abstraction"
+    },
+	{
+		"id": "400094",
+        "question": "Which is not true about the object-oriented approach?",
+        "optionA": "Emphasis is on data rather than procedure",
+        "optionB": "Data is hidden and cannot be accessed by external functions",
+        "optionC": "Objects communicate through functions",
+        "optionD": "It supports abstract data but not the class",
+        "answer": "It supports abstract data but not the class"
+    },
+	{
+		"id": "400095",
+        "question": "Which language among the following support an object-oriented approach?",
+        "optionA": "Modula-3",
+        "optionB": "Ada 95",
+        "optionC": "Modula-2",
+        "optionD": "Both A and B",
+        "answer": "Both A and B"
+    },
+	{
+		"id": "400096",
+        "question": "Which concept is not supported by object-based programming languages?",
+        "optionA": "Inheritance",
+        "optionB": "Dynamic binding",
+        "optionC": "Only A",
+        "optionD": "Both A and B",
+        "answer": "Both A and B"
+    },
+	{
+		"id": "400097",
+        "question": "Which language does not follow the concept of OOP?",
+        "optionA": "FORTAN",
+        "optionB": "RUBY",
+        "optionC": "JADE",
+        "optionD": "SCALA",
+        "answer": "FORTAN"
+    },
+	{
+		"id": "400098",
+        "question": "The subroutines contained in an object are called _____ methods.",
+        "optionA": "Class Methods",
+        "optionB": "Static Methods",
+        "optionC": "Instance Methods",
+        "optionD": "Interface Methods",
+        "answer": "Instance Methods"
+    },
+	{
+		"id": "400099",
+        "question": "Which function incorporates a membership 'identity label' in the header?",
+        "optionA": "Member functions",
+        "optionB": "Normal functions",
+        "optionC": "Inline functions",
+        "optionD": "Constant functions",
+        "answer": "Member functions"
+    },
+	{
+		"id": "400100",
+        "question": "A non-member function cannot access which data of the class?",
+        "optionA": "Private data",
+        "optionB": "Public data",
+        "optionC": "Protected data",
+        "optionD": "All of the above",
+        "answer": "Private data"
+    },
+	{
+		"id": "400101",
+        "question": "____ member variables are initialized to zero when the first object of its class is created?",
+        "optionA": "Static",
+        "optionB": "Local",
+        "optionC": "Global",
+        "optionD": "External",
+        "answer": "Static"
+    },
+	{
+		"id": "400102",
+        "question": "How many types of abstractions are there in an object-oriented programming language?",
+        "optionA": "2 types",
+        "optionB": "3 types",
+        "optionC": "4 types",
+        "optionD": "None",
+        "answer": "4 types"
+    },
+	{
+		"id": "400103",
+        "question": "An object that represents a useful model of a problem domain is which type of abstraction?",
+        "optionA": "Action Abstraction",
+        "optionB": "Virtual Machine Abstraction",
+        "optionC": "Coincidental Abstraction",
+        "optionD": "Entity Abstraction",
+        "answer": "Entity Abstraction"
+    },
+	{
+		"id": "400104",
+        "question": "An object that provides a general set of operations, all of which perform the same kind of function is which type of abstraction?",
+        "optionA": "Action Abstraction",
+        "optionB": "Virtual Machine Abstraction",
+        "optionC": "Coincidental Abstraction",
+        "optionD": "Entity Abstraction",
+        "answer": "Action Abstraction"
+    },
+	{
+		"id": "400105",
+        "question": "An object that packages a set of operations that have no relations to each other is which type of abstraction?",
+        "optionA": "Action Abstraction",
+        "optionB": "Virtual Machine Abstraction",
+        "optionC": "Coincidental Abstraction",
+        "optionD": "Entity Abstraction",
+        "answer": "Coincidental Abstraction"
+    },
+	{
+		"id": "400106",
+        "question": "____ is the process of compartmentalizing the elements of an abstraction that contribute to its structure and behavior?",
+        "optionA": "Encapsulation",
+        "optionB": "Abstraction",
+        "optionC": "Classes",
+        "optionD": "Inheritance",
+        "answer": "Encapsulation"
+    },
+	{
+		"id": "4000107",
+        "question": "____ is the property that distinguishes an active object from one that is not active?",
+        "optionA": "Typing",
+        "optionB": "Concurrency",
+        "optionC": "Hierarchy",
+        "optionD": "Persistence",
+        "answer": "Concurrency"
+    },
+	{
+		"id": "400108",
+        "question": " ____ is the property of an object through which its existence transcends time?",
+        "optionA": "Object",
+        "optionB": "Concurrency",
+        "optionC": "Hierarchy",
+        "optionD": "Persistence",
+        "answer": "Persistence"
+    },
+	{
+		"id": "400109",
+        "question": "What are manipulators?",
+        "optionA": "Manipulators are used to specify a character that is used to fill the unused portion of the field",
+        "optionB": "Manipulators are used to clear the flags specified",
+        "optionC": "Manipulators are special functions that can be included in the I/O statements to alter the format parameters of a stream",
+        "optionD": "Manipulators contain large numbers of member functions",
+        "answer": "Manipulators are special functions that can be included in the I/O statements to alter the format parameters of a stream"
+    },
+	{
+		"id": "400110",
+        "question": "A _____ object is visible throughout a program module.",
+        "optionA": "Static objects",
+        "optionB": "Dynamic objects",
+        "optionC": "External objects",
+        "optionD": "Automatic objects",
+        "answer": "External objects"
+    },
+	{
+		"id": "400111",
+        "question": "A _____ object which exists for a particular period.",
+        "optionA": "Static objects",
+        "optionB": "Dynamic objects",
+        "optionC": "External objects",
+        "optionD": "Automatic objects",
+        "answer": "Automatic objects"
+    },
+	{
+		"id": "400112",
+        "question": "A _____ object is an object which has the scope of an automatic object but the lifetime of an external object.",
+        "optionA": "Static objects",
+        "optionB": "Dynamic objects",
+        "optionC": "External objects",
+        "optionD": "Automatic objects",
+        "answer": "Static objects"
+    },
+	{
+		"id": "400113",
+        "question": "Which of the following defines a Meta class?",
+        "optionA": "A Meta class is a class that may not itself have any instances.",
+        "optionB": "A Meta class is a class of a class.",
+        "optionC": "Meta classes are classes that are different than plain classes",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+	{
+		"id": "400114",
+        "question": "Under which pillar of OOPS do base class and derived class relationships come?",
+        "optionA": "Abstraction",
+        "optionB": "Encapsulation",
+        "optionC": "Inheritance",
+        "optionD": "Polymorphism",
+        "answer": "Inheritance"
+    },
+	{
+		"id": "400115",
+        "question": "Which one of the following defines correct differences between structure and class?",
+        "optionA": "Structure only holds the data, classes hold the data and functions",
+        "optionB": "The structure holds the data and functions, classes only hold the data",
+        "optionC": "The structure is the instance of the class, classes are a set of objects",
+        "optionD": "Members of structure and class can be both public and private",
+        "answer": "Structure only holds the data, classes hold the data and functions"
+    },
+	{
+		"id": "400116",
+        "question": "Which access specifier makes the class member accessible outside the class but can be accessed by any subclass of that class?",
+        "optionA": "Private",
+        "optionB": "Public",
+        "optionC": "Protected",
+        "optionD": "None",
+        "answer": "Protected"
+    },
+	{
+		"id": "400117",
+        "question": "Which access specifiers have strict access control?",
+        "optionA": "Private",
+        "optionB": "Public",
+        "optionC": "Protected",
+        "optionD": "None",
+        "answer": "Private"
+    },
+	{
+		"id": "400118",
+        "question": "What are auto variables?",
+        "optionA": "Auto variables are the variables that are visible to all the modules of a program",
+        "optionB": "Auto variables are the variables that speed up the allocation of the CPU",
+        "optionC": "Auto variables are the variables that are defined inside a function",
+        "optionD": "Auto variables are the variables whose scope is limited",
+        "answer": "Auto variables are the variables that are visible to all the modules of a program"
+    },
+	{
+		"id": "400119",
+        "question": "What are Static variables?",
+        "optionA": "Static variables are the variables that are visible in specific functions",
+        "optionB": "Static variables are the variables that speed up the allocation of the CPU",
+        "optionC": "Static variables are the variables that are defined within a function and retain their values from the previous cal",
+        "optionD": "All the variables are static variables by default",
+        "answer": "Static variables are the variables that are defined within a function and retain their values from the previous cal"
+    },
+	{
+		"id": "400120",
+        "question": "When an object is created an initialization needs to be done which is automatically done by the ____ function?",
+        "optionA": "Constructor",
+        "optionB": "Destructor",
+        "optionC": "Friend",
+        "optionD": "Member",
+        "answer": "Constructor"
+    },
+	{
+		"id": "400121",
+        "question": "Which one of the following is not the characteristic of a constructor?",
+        "optionA": "Constructors can be virtual",
+        "optionB": "Constructors cannot be referred by their address",
+        "optionC": "Constructors cannot be inherited",
+        "optionD": "Constructors are called automatically",
+        "answer": "Constructors can be virtual"
+    },
+	{
+		"id": "400122",
+        "question": "Which one of the following is the main benefit of single inheritance?",
+        "optionA": "Presence of ambiguity",
+        "optionB": "Absence of ambiguity",
+        "optionC": "Provides modularity",
+        "optionD": "Does not provide modularity",
+        "answer": "Absence of ambiguity"
+    },
+	{
+		"id": "400123",
+        "question": "How many types of valid inheritance are there?",
+        "optionA": "4 types",
+        "optionB": "5 types",
+        "optionC": "6 types",
+        "optionD": "3 types",
+        "answer": "5 types"
+    },
+	{
+		"id": "400124",
+        "question": "n which type of inheritance the child or derived class inherits the features of the superclass and simultaneously this child class acts as a superclass for another derived class?",
+        "optionA": "Hybrid inheritance",
+        "optionB": "Multiple inheritances",
+        "optionC": "Hierarchical inheritance",
+        "optionD": "Multilevel inheritance",
+        "answer": "Multilevel inheritance"
+    },
+	{
+		"id": "400125",
+        "question": "In which type of inheritance does one class act as a superclass for more than one sub-class?",
+        "optionA": "Hybrid inheritance",
+        "optionB": "Multiple inheritances",
+        "optionC": "Hierarchical inheritance",
+        "optionD": "Multilevel inheritance",
+        "answer": "Hierarchical inheritance"
+    },
+	{
+		"id": "400126",
+        "question": "This is the type of inheritance in which the implementation of a superclass is incomplete.",
+        "optionA": "Single inheritance",
+        "optionB": "Virtual inheritance",
+        "optionC": "Multiple inheritances",
+        "optionD": "Hybrid inheritance",
+        "answer": "Virtual inheritance"
+    },
+	{
+		"id": "400127",
+        "question": "Virtual inheritance is also known as ____.",
+        "optionA": "Clear inheritance",
+        "optionB": "Private inheritance",
+        "optionC": "Disinheritance",
+        "optionD": "Multiple inheritances",
+        "answer": "Disinheritance"
+    },
+	{
+		"id": "400128",
+        "question": "Which class is mainly designed to overcome the disadvantage of multiple inheritances?",
+        "optionA": "Virtual Base class",
+        "optionB": "Base class",
+        "optionC": "Abstract class",
+        "optionD": "Partial class",
+        "answer": "Virtual Base class"
+    },
+	{
+		"id": "400129",
+        "question": " _____ is associated with polymorphism and inheritance.",
+        "optionA": "Message parsing",
+        "optionB": "Abstraction",
+        "optionC": "Dynamic Binding",
+        "optionD": "Encapsulation",
+        "answer": "Dynamic Binding"
+    },
+	{
+		"id": "400130",
+        "question": "How many types of associations are there?",
+        "optionA": "2 types",
+        "optionB": "3 types",
+        "optionC": "4 types",
+        "optionD": "It does not have any type",
+        "answer": "3 types"
+    },
+	{
+		"id": "400131",
+        "question": "A class containing one or more pure virtual functions is known as ____?",
+        "optionA": "Abstract class",
+        "optionB": "Static class",
+        "optionC": "Private class",
+        "optionD": "Instance class",
+        "answer": "Abstract class"
+    },
+	{
+		"id": "400132",
+        "question": " _____ refers to the ability to perform operations without knowing the type of object they'll be operated on.",
+        "optionA": "Abstract base class",
+        "optionB": "Abstract class",
+        "optionC": "Polymorphism",
+        "optionD": "Operator overloading",
+        "answer": "Polymorphism"
+    },
+	{
+		"id": "400133",
+        "question": "Early binding is also known as____?",
+        "optionA": "Dynamic binding",
+        "optionB": "Late binding",
+        "optionC": "Static binding",
+        "optionD": "Run time binding",
+        "answer": "Static binding"
+    },
+	{
+		"id": "400134",
+        "question": "Which of the following statement is not true for virtual functions?",
+        "optionA": "The virtual function must be members of some class",
+        "optionB": "The virtual function can be a static member",
+        "optionC": "Virtual functions are accessed by using an object pointer",
+        "optionD": "The virtual function can be a friend of another class",
+        "answer": "The virtual function can be a static member"
+    },
+	{
+		"id": "400135",
+        "question": "If two functions with the same name have different prototypes, C++ considers them as ____?",
+        "optionA": "Friend Function",
+        "optionB": "Overloaded function",
+        "optionC": "Abstract function",
+        "optionD": "Operator overloading function",
+        "answer": "Overloaded function"
+    },
+	{
+		"id": "400136",
+        "question": "____ Function is a function declared in a base class that has no definition relative to the base class.",
+        "optionA": "Virtual Function",
+        "optionB": "Pure Virtual Function",
+        "optionC": "Friend Function",
+        "optionD": "Static Function",
+        "answer": "Pure Virtual Function"
+    },
+	{
+		"id": "400137",
+        "question": "Which function is not a member of a class but still has access to private data of a class?",
+        "optionA": "Friend Function",
+        "optionB": "Pure Virtual Function",
+        "optionC": "Static Function",
+        "optionD": "Abstract Function",
+        "answer": "Friend Function"
+    },
+	{
+		"id": "400138",
+        "question": "Select the correct operator which cannot be overloaded",
+        "optionA": "Scope Resolution Operator (::)",
+        "optionB": "Ternary Operator (? :)",
+        "optionC": "Member Access or Dot Operator (.)",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+	{
+		"id": "400139",
+        "question": "Which operator is used to access the static variable and static function of a class?",
+        "optionA": "Scope Resolution Operator (::)",
+        "optionB": "Ternary Operator (? :)",
+        "optionC": "Member Access or Dot Operator (.)",
+        "optionD": "All of the above",
+        "answer": "Scope Resolution Operator (::)"
+    },
+	{
+		"id": "400306",
+        "question": "Polymorphism is achieved through ___",
+        "optionA": "Heritance",
+        "optionB": "Poly programming",
+        "optionC": "Encapsulation",
+        "optionD": "Overloading",
+        "answer": "Overloading"
+    },
+	{
+		"id": "400307",
+        "question": "The word polymorphism means ____",
+        "optionA": "Many programs",
+        "optionB": "Two forms",
+        "optionC": "Single form",
+        "optionD": "Many shapes",
+        "answer": "Many shapes"
+    },
+	{
+		"id": "400308",
+        "question": "The mechanism of giving special meaning to an operator is called ____",
+        "optionA": "Object",
+        "optionB": "Inheritance",
+        "optionC": "Function overloading",
+        "optionD": "Operator Overloading",
+        "answer": "Operator Overloading"
+    },
+	{
+		"id": "400309",
+        "question": "In function overloading do not use the ___ function name for two unrelated functions.",
+        "optionA": "Same",
+        "optionB": "Different",
+        "optionC": "Similar",
+        "optionD": "Complement",
+        "answer": "Same"
+    },
+	{
+		"id": "400310",
+        "question": "Strcat() function is used for ____",
+        "optionA": "Substring",
+        "optionB": "String calculation",
+        "optionC": "String comparison",
+        "optionD": "String concatenation",
+        "answer": "String concatenation"
+    },
+	{
+		"id": "400311",
+        "question": "While invoking functions, if the C++ compiler does not find the exact match of the function call statement then ___",
+        "optionA": "Looks for the next nearest match",
+        "optionB": "Deletes the function",
+        "optionC": "Generates an error",
+        "optionD": "It will ignore the function call",
+        "answer": "Looks for the next nearest match"
+    },
+	{
+		"id": "400312",
+        "question": "The functionality of operator like ‘+’ can be extended using ___",
+        "optionA": "Operator precedence",
+        "optionB": "Operator overloading",
+        "optionC": "Operator definition",
+        "optionD": "None of the given",
+        "answer": "Operator overloading"
+    },
+	{
+		"id": "400313",
+        "question": "Binary operators overloaded through a member function take one ____ argument.",
+        "optionA": "Default",
+        "optionB": "Complete",
+        "optionC": "Implicit",
+        "optionD": "Explicit",
+        "answer": "Explicit"
+    },
+	{
+		"id": "400314",
+        "question": "The operator function must be ____",
+        "optionA": "A member function",
+        "optionB": "A friend function",
+        "optionC": "Either member or friend function",
+        "optionD": "None of the given",
+        "answer": "Either member or friend function"
+    },
+	{
+		"id": "400315",
+        "question": "____ Promotions are purely compiler oriented.",
+        "optionA": "Constant",
+        "optionB": "Integral",
+        "optionC": "Floating point",
+        "optionD": "Character",
+        "answer": "Integral"
+    },
+	{
+		"id": "400316",
+        "question": "The ____ operator must have at least one operand of user defined type.",
+        "optionA": "New",
+        "optionB": "Overloaded",
+        "optionC": "Existing",
+        "optionD": "Binary",
+        "answer": "Overloaded"
+    },
+	{
+		"id": "400317",
+        "question": "Which of the following operators cannot be overloaded?",
+        "optionA": "+",
+        "optionB": "++",
+        "optionC": "--",
+        "optionD": "::",
+        "answer": "::"
+    },
+	{
+		"id": "400318",
+        "question": "The ability of a function to process the message or data in more than one form is called as ____",
+        "optionA": "Function overloading",
+        "optionB": "Function type",
+        "optionC": "Recursive function",
+        "optionD": "Inline function",
+        "answer": "Function overloading"
+    },
+	{
+		"id": "400319",
+        "question": "The mechanism of giving special meaning to an operator is called as ____",
+        "optionA": "Data overloading",
+        "optionB": "Function overloading",
+        "optionC": "Operator overloading",
+        "optionD": "Variable overloading",
+        "answer": "Variable overloading"
+    },
+	{
+		"id": "400320",
+        "question": "During integral promotion, a char data type can be converted to ___",
+        "optionA": "Double",
+        "optionB": "Integer",
+        "optionC": "Float",
+        "optionD": "All the above",
+        "answer": "All the above"
+    },
+	{
+		"id": "400321",
+        "question": "The return type of overloaded functions ___",
+        "optionA": "May or may not be same",
+        "optionB": "Must be same",
+        "optionC": "Must be different",
+        "optionD": "None of the given",
+        "answer": "May or may not be same"
+    },
+	{
+		"id": "400322",
+        "question": "When overloading operators, only ___ operators can be overloaded, new operators cannot be created.",
+        "optionA": "Binary",
+        "optionB": "Similar",
+        "optionC": "Relevant",
+        "optionD": "Existing",
+        "answer": "Existing"
+    },
+	{
+		"id": "400323",
+        "question": "During integral promotion, a float data type can be converted to ___",
+        "optionA": "Integer",
+        "optionB": "Double",
+        "optionC": "Char",
+        "optionD": "All the above",
+        "answer": "All the above"
+    },
+	{
+		"id": "400324",
+        "question": "Which of the following operator can be overloaded?",
+        "optionA": "Sizeof ()",
+        "optionB": "::",
+        "optionC": "Membership operator (.)",
+        "optionD": "Plus (+)",
+        "answer": "Plus (+)"
+    },
+	{
+		"id": "400325",
+        "question": "Identify= the operator that is overloaded",
+        "optionA": "=",
+        "optionB": " –(Unary)",
+        "optionC": "–(Binary)",
+        "optionD": "Negative",
+        "answer": " –(Unary)"
+    },
+	{
+		"id": "400334",
+        "question": "How many types of functions are there in an object-oriented programming language?",
+        "optionA": "4 types",
+        "optionB": "5 types",
+        "optionC": "2 types",
+        "optionD": "6 types",
+        "answer": "5 types"
+    }
+	
+	
+]

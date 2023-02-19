@@ -1,0 +1,1534 @@
+[
+    {
+		"id": "000001",
+        "question": "Which of the following Is not a part of the operating system?",
+        "optionA": "Input/output control program",
+        "optionB": "Job control program",
+        "optionC": "Supervisor",
+        "optionD": "Performance monitor",
+        "answer": "Performance monitor"
+    },
+	{
+		"id": "000002",
+        "question": "Operating system is a collection of",
+        "optionA": "Software routines",
+        "optionB": "Input-output devices",
+        "optionC": "Hardware components",
+        "optionD": "All of these",
+        "answer": "Software routines"
+    },
+	{
+		"id": "000003",
+        "question": "Which of the following is not an operating system?",
+        "optionA": "UNIX",
+        "optionB": "MS-DOS",
+        "optionC": "CP/M",
+        "optionD": "PASCAL",
+        "answer": "PASCAL"
+    },
+	{
+		"id": "000004",
+        "question": "FIFO scheduling is",
+        "optionA": "Fair-share scheduling",
+        "optionB": "Deadline scheduling",
+        "optionC": "Non-preemptive scheduling",
+        "optionD": "Preemptive scheduling",
+        "answer": "Non-preemptive scheduling"
+    },
+	{
+		"id": "000005",
+        "question": "Two operating modes of AT are",
+        "optionA": "Direct mode, indirect mode",
+        "optionB": "Virtual mode, dedicated mode",
+        "optionC": "Private mode, public mode",
+        "optionD": "Real mode, protected mode",
+        "answer": "Real mode, protected mode"
+    },
+	{
+		"id": "000006",
+        "question": "Computer system is divided into how many numbers of components?",
+        "optionA": "1",
+        "optionB": "2",
+        "optionC": "3",
+        "optionD": "4",
+        "answer": "4"
+    },
+	{
+		"id": "000007",
+        "question": "What is the name of the operating system that reads and reacts in terms of actual time?",
+        "optionA": "Real time system",
+        "optionB": "Time sharing system",
+        "optionC": "Quick response system",
+        "optionD": "Batch system",
+        "answer": "Real time system"
+    },
+	{
+		"id": "000008",
+        "question": "Which of the following software is used to simplify using of system software?",
+        "optionA": "Time sharing",
+        "optionB": "Multi-tasking",
+        "optionC": "Operating environment",
+        "optionD": "Spreadsheet",
+        "answer": "Time sharing"
+    },
+	{
+		"id": "000009",
+        "question": "UNIX operating system",
+        "optionA": "can run on PC’s and larger system",
+        "optionB": " is multitasking",
+        "optionC": "is multiuser",
+        "optionD": "all of these",
+        "answer": "all of these"
+    },
+	{
+		"id": "000010",
+        "question": "Card reader is an example of",
+        "optionA": "Multi-tasking",
+        "optionB": "Multiprogramming",
+        "optionC": "Batch operating system",
+        "optionD": "None of these",
+        "answer": "Batch operating system"
+    },
+	{
+		"id": "000011",
+        "question": "Context switching is part of",
+        "optionA": "Interrupt servicing",
+        "optionB": "Interrupt handling",
+        "optionC": "Polling",
+        "optionD": "Spooling",
+        "answer": "Interrupt handling"
+    },
+	{
+		"id": "000012",
+        "question": "Which of the following is an example of a spooled device?",
+        "optionA": " A graphic display device",
+        "optionB": "A line printer used to print the output of a number of jobs",
+        "optionC": "A secondary storage device in a virtual memory system",
+        "optionD": "A terminal used to enter input data to a running program",
+        "answer": "A line printer used to print the output of a number of jobs"
+    },
+	{
+		"id": "000013",
+        "question": "Operating system is resident in memory of which part?",
+        "optionA": "Middle",
+        "optionB": "Lower",
+        "optionC": "Upper",
+        "optionD": "All of these",
+        "answer": "Upper"
+    },
+	{
+		"id": "000014",
+        "question": "Two basic types of operating systems are",
+        "optionA": "Batch and interactive",
+        "optionB": "Sequential and real time",
+        "optionC": "Batch and time share",
+        "optionD": "Sequential and direct",
+        "answer": " Batch and interactive"
+    },
+	{
+		"id": "000015",
+        "question": "The Operating System was first introduced, the primary goal was mainly to ___",
+        "optionA": "Share memory",
+        "optionB": "User friendly",
+        "optionC": "Optimize resources",
+        "optionD": "None of the given",
+        "answer": "Optimize resources"
+    },
+	{
+		"id": "000016",
+        "question": "The Operating System should work in a network as well as ___ environment.",
+        "optionA": "diverted",
+        "optionB": "data",
+        "optionC": "distributed",
+        "optionD": "direct",
+        "answer": "distributed"
+    },
+	{
+		"id": "000017",
+        "question": "_____ may be the first elementary Operating System.",
+        "optionA": "Resident System",
+        "optionB": "Resident Monitor",
+        "optionC": "Resident Operator",
+        "optionD": "Resident Computer",
+        "answer": "Resident Monitor"
+    },
+	{
+		"id": "000018",
+        "question": "____ is an example of single user Operating System",
+        "optionA": "Ms-Dos",
+        "optionB": "Linux",
+        "optionC": "Unix",
+        "optionD": "Basic",
+        "answer": "Ms-Dos"
+    },
+	{
+		"id": "000019",
+        "question": "The ___ program is not allowed to read data from the disk.",
+        "optionA": "OS",
+        "optionB": "Application",
+        "optionC": "System",
+        "optionD": "Resident Monitor",
+        "answer": "Application"
+    },
+	{
+		"id": "000020",
+        "question": "____ mechanism was created, which allowed transferring data to and from memory without the intervention of the CPU.",
+        "optionA": "Driver Monitor Access",
+        "optionB": "Driver Memory Access",
+        "optionC": "Direct Monitor Access",
+        "optionD": "Direct Memory Access",
+        "answer": "Direct Memory Access"
+    },
+	{
+		"id": "000021",
+        "question": "_____ is a way of dealing with dedicated I/O devices in a multiprogramming system.",
+        "optionA": "System call",
+        "optionB": "Spooling",
+        "optionC": "Storage",
+        "optionD": "Buffer",
+        "answer": "Spooling"
+    },
+	{
+		"id": "000022",
+        "question": "The allocation of processors by process management is also known as the CPU ___",
+        "optionA": "Managing",
+        "optionB": "Processing",
+        "optionC": "Planning",
+        "optionD": "Scheduling",
+        "answer": "Scheduling"
+    },
+	{
+		"id": "000023",
+        "question": "The eye is an interface between the object and the part of the brain that processes ____",
+        "optionA": "Visual data",
+        "optionB": "Graphic data",
+        "optionC": " Audio data",
+        "optionD": "Text data",
+        "answer": "Visual data"
+    },
+	{
+		"id": "000024",
+        "question": "Operating System assumes responsibility, that of serving as a ____",
+        "optionA": "Control program",
+        "optionB": "Contribute program",
+        "optionC": "Supplement program",
+        "optionD": "Supply program",
+        "answer": "Control program"
+    },
+	{
+		"id": "000025",
+        "question": "To avoid the delay due to manual operation ___ was introduced.",
+        "optionA": "Assistant",
+        "optionB": "Efficient",
+        "optionC": "Job sequencing",
+        "optionD": "Manual",
+        "answer": "Job sequencing"
+    },
+	{
+		"id": "000026",
+        "question": "A set of extended instructions providing an interface between the Operating System and the user programs, is called a ____",
+        "optionA": "Machine call",
+        "optionB": "System call",
+        "optionC": "Instruction call",
+        "optionD": "Service call",
+        "answer": "System call"
+    },
+	{
+		"id": "000027",
+        "question": "System level security is offered by the ____ in a multi-user environment.",
+        "optionA": "code",
+        "optionB": "password",
+        "optionC": "name",
+        "optionD": "secret code",
+        "answer": "password"
+    },
+	{
+		"id": "000028",
+        "question": "A ____ controls the execution of user programs to prevent errors and improper use of the computer.",
+        "optionA": "control program",
+        "optionB": "contribute program",
+        "optionC": "supplement program",
+        "optionD": "supply program",
+        "answer": "control program"
+    },
+	{
+		"id": "000029",
+        "question": "____ give iterative usage of the particular application.",
+        "optionA": "Interface",
+        "optionB": "Icons",
+        "optionC": "Files",
+        "optionD": "Programs",
+        "answer": "Icons"
+    },
+	{
+		"id": "000030",
+        "question": "The ____ attacks and discourage people to get connected to the net.",
+        "optionA": "source program",
+        "optionB": "system",
+        "optionC": "virus",
+        "optionD": "both a and b",
+        "answer": "virus"
+    },
+	{
+		"id": "000031",
+        "question": "____ code will not be entertained for input/output at any circumstance.",
+        "optionA": "User",
+        "optionB": "Machine",
+        "optionC": "I/O",
+        "optionD": "System",
+        "answer": "Machine"
+    },
+	{
+		"id": "000032",
+        "question": "The multi-user Operating System is based on the concept of ___",
+        "optionA": "Time-losing",
+        "optionB": "Time-spooling",
+        "optionC": "Time-gaining",
+        "optionD": "Time-sharing",
+        "answer": "Time-sharing"
+    },
+	{
+		"id": "000033",
+        "question": "____ systems have more than one CPU in close communication with the others.",
+        "optionA": "Communication",
+        "optionB": "Multiprocessor",
+        "optionC": "Controller",
+        "optionD": "Processor",
+        "answer": "Multiprocessor"
+    },
+	{
+		"id": "000034",
+        "question": "____ software helps the user to do his/her work.",
+        "optionA": "Computer",
+        "optionB": "Utility",
+        "optionC": "System",
+        "optionD": "Application",
+        "answer": "Application"
+    },
+	{
+		"id": "000035",
+        "question": "_____ software looks after the functions of the computer.",
+        "optionA": "Computer",
+        "optionB": "Utility",
+        "optionC": "System",
+        "optionD": "Application",
+        "answer": "System"
+    },
+	{
+		"id": "000036",
+        "question": "The operating system provides special routines called ____ to support the specific behavior of individual device.",
+        "optionA": "Managers",
+        "optionB": " Programs",
+        "optionC": "Application",
+        "optionD": "Device drivers",
+        "answer": "Device drivers"
+    },
+	{
+		"id": "000037",
+        "question": "____ is one program running at all times on the computer.",
+        "optionA": "Application",
+        "optionB": "Operation",
+        "optionC": "Utility",
+        "optionD": "Operating system",
+        "answer": "Operating system"
+    },
+	{
+		"id": "000038",
+        "question": "Safeguarding of data is called ____",
+        "optionA": "Data Safety",
+        "optionB": "Data Surety",
+        "optionC": "Data Security",
+        "optionD": "Data privacy",
+        "answer": "Data Security"
+    },
+	{
+		"id": "000039",
+        "question": "The ____ provides so many facilities with which a user comfortably uses their computers.",
+        "optionA": "ALU",
+        "optionB": "Operating System",
+        "optionC": "Working System",
+        "optionD": "None",
+        "answer": "Operating System"
+    },
+	{
+		"id": "000040",
+        "question": "Spooling allowed the CPU to choose a particular job for execution leading to the concept called the ___",
+        "optionA": "Job Scheduling",
+        "optionB": "Job Sharing",
+        "optionC": "Job Allotment",
+        "optionD": "Job Ration",
+        "answer": "Job Scheduling"
+    },
+	{
+		"id": "000041",
+        "question": "There should be different levels of help to satisfy the needs of different levels of ____",
+        "optionA": "Users",
+        "optionB": " Hardware",
+        "optionC": "Computer system",
+        "optionD": "Operating System",
+        "answer": "Users"
+    },
+	{
+		"id": "000042",
+        "question": "A computer system is the integration of physical entities called ___ and non-physical entities called ___",
+        "optionA": "Network, Hub",
+        "optionB": "Free wave, Share wave",
+        "optionC": "Hardware, Software",
+        "optionD": "None of these",
+        "answer": "Hardware, Software"
+    },
+	{
+		"id": "000043",
+        "question": "The job scheduling led to the concept known as the ___",
+        "optionA": "Multiprogramming",
+        "optionB": "Job programming",
+        "optionC": "Programming",
+        "optionD": "Threading",
+        "answer": "Multiprogramming"
+    },
+	{
+		"id": "000044",
+        "question": "User __ is divided into many partitions to accommodate various jobs.",
+        "optionA": " File",
+        "optionB": "Memory",
+        "optionC": "Data",
+        "optionD": "Program",
+        "answer": "Memory"
+    },
+	{
+		"id": "000045",
+        "question": "Operating System allocates ___ in such a manner so as to achieve the maximum best possible result",
+        "optionA": "Utility",
+        "optionB": "OS",
+        "optionC": "None of these",
+        "optionD": "Resources",
+        "answer": "Resources"
+    },
+	{
+		"id": "000046",
+        "question": "The ___ comes under the System Software category.",
+        "optionA": "Utility System",
+        "optionB": "Operating System",
+        "optionC": "Working System",
+        "optionD": "None",
+        "answer": "Operating System"
+    },
+	{
+		"id": "000047",
+        "question": "For printing a document, the Operating System first makes a ____ of the file and then hands over the control back to the application.",
+        "optionA": "Temporary copy",
+        "optionB": "Prints",
+        "optionC": "Moves",
+        "optionD": "None of the given",
+        "answer": "Temporary copy"
+    },
+	{
+		"id": "000048",
+        "question": "The Operating System should provide ___",
+        "optionA": "Data property",
+        "optionB": "Data",
+        "optionC": "Data clarity",
+        "optionD": "Data security",
+        "answer": "Data security"
+    },
+	{
+		"id": "000049",
+        "question": "____ booting is done by turning on the computer.",
+        "optionA": "Spicy",
+        "optionB": "Cold",
+        "optionC": "Hot",
+        "optionD": "Cool",
+        "answer": "Cold"
+    },
+	{
+		"id": "000050",
+        "question": "Disk Resident Commands refer to",
+        "optionA": "Wild cards",
+        "optionB": "External command",
+        "optionC": "Pipes",
+        "optionD": "Internal command",
+        "answer": "External command"
+    },
+	{
+		"id": "000051",
+        "question": "To ‘boot’, the system the computer must have a(n)",
+        "optionA": "Assembler",
+        "optionB": "Compiler",
+        "optionC": "Operating system",
+        "optionD": "Loader",
+        "answer": "Operating system"
+    },
+	{
+		"id": "000052",
+        "question": "____ is the part of the filename that indicates which compiler or software package is needed to run the files.",
+        "optionA": "Extension",
+        "optionB": "RAM",
+        "optionC": "Path",
+        "optionD": "Cache",
+        "answer": "Extension"
+    },
+	
+	{
+		"id": "000053",
+        "question": "What is the general name of the device which produces hardcopy graphics?",
+        "optionA": "Microfilm",
+        "optionB": "COM",
+        "optionC": "Plotter",
+        "optionD": "Printer",
+        "answer": "Plotter"
+    },
+	{
+		"id": "000054",
+        "question": "Scheduling is",
+        "optionA": "the same regardless of the purpose of the system",
+        "optionB": "quite simple to implement, even on large mainframes",
+        "optionC": "unrelated to performance considerations",
+        "optionD": "allowing job to use the processor",
+        "answer": "allowing job to use the processor"
+    },
+	{
+		"id": "000055",
+        "question": "How many types of multiprocessing models are there?",
+        "optionA": "2",
+        "optionB": "3",
+        "optionC": "4",
+        "optionD": "5",
+        "answer": "2"
+    },
+	{
+		"id": "000056",
+        "question": "Which of the following operating system write through catches?",
+        "optionA": "XEVIX",
+        "optionB": "DOS",
+        "optionC": "ULTRIX",
+        "optionD": "UNIX",
+        "answer": "DOS"
+    },
+	{
+		"id": "000057",
+        "question": "Most popular 16-bit operating system is?",
+        "optionA": "MS-DOS",
+        "optionB": "TRS-DOS",
+        "optionC": "UNIX",
+        "optionD": "CP/M",
+        "answer": "MS-DOS"
+    },
+	{
+		"id": "000058",
+        "question": "A computer cannot “boot” if it does not have",
+        "optionA": "Assembler",
+        "optionB": "Operating system",
+        "optionC": "Complier",
+        "optionD": "Loader",
+        "answer": "Operating system"
+    },
+	{
+		"id": "000059",
+        "question": "Software that measures, monitors, analyses and controls real-word events is called",
+        "optionA": "System software",
+        "optionB": "Real-time software",
+        "optionC": "Business software",
+        "optionD": "Scientific software",
+        "answer": "Real-time software"
+    },
+	{
+		"id": "000060",
+        "question": "Remote computing services involve the use of time sharing and",
+        "optionA": "Batch processing",
+        "optionB": "Real time processing",
+        "optionC": "Interactive processing",
+        "optionD": "Multiprocessing",
+        "answer": "Batch processing"
+    },
+	{
+		"id": "000061",
+        "question": "The primary job of operating system is to",
+        "optionA": "Be user friendly",
+        "optionB": "Provide utilities",
+        "optionC": "Manage resources",
+        "optionD": "Command resources",
+        "answer": "Manage resources"
+    },
+	{
+		"id": "000062",
+        "question": "Which one is the example of hard real time system?",
+        "optionA": "Robotics",
+        "optionB": "Industrial control",
+        "optionC": "Both Robotics and Industrial control",
+        "optionD": "None of these",
+        "answer": "Both Robotics and Industrial control"
+    },
+	{
+		"id": "000063",
+        "question": "Which file is the batch file that is read while booting a computer?",
+        "optionA": "Auto.bat",
+        "optionB": "Autoexec.bat",
+        "optionC": "Auto-batch",
+        "optionD": "Autoexecutive.bat",
+        "answer": "Autoexec.bat"
+    },
+	{
+		"id": "000064",
+        "question": "Round robin is a",
+        "optionA": "Kind of magnetic drum",
+        "optionB": "Memory allocation policy",
+        "optionC": "Process scheduling policy",
+        "optionD": "Process synchronization policy",
+        "answer": "Process scheduling policy"
+    },
+	{
+		"id": "000065",
+        "question": "Of the following, the odd one is",
+        "optionA": "Kernel",
+        "optionB": "Spooler",
+        "optionC": "Executive",
+        "optionD": "Task manage",
+        "answer": "Task manage"
+    },
+	{
+		"id": "000066",
+        "question": "Cryptography technique is used in",
+        "optionA": "File management",
+        "optionB": "Protection",
+        "optionC": "Job scheduling",
+        "optionD": "Polling",
+        "answer": "Protection"
+    },
+	{
+		"id": "000067",
+        "question": "The kernel of the operating system remains in primary memory (and other part of the operating system remains in secondary storage) because",
+        "optionA": "It is mostly called (used)",
+        "optionB": "It manages all interrupt calls",
+        "optionC": "It controls all operations in a process",
+        "optionD": "It is low level",
+        "answer": "It is mostly called (used)"
+    },
+	{
+		"id": "000068",
+        "question": "Trap is a/an",
+        "optionA": "Operating system’s interrupt",
+        "optionB": "Hardware interrupt",
+        "optionC": "Synchronous interrupt",
+        "optionD": "Asynchronous interrupt",
+        "answer": "Synchronous interrupt"
+    },
+	{
+		"id": "000069",
+        "question": "Which disk is used to cold boot a PC?",
+        "optionA": "System disk",
+        "optionB": "Diagnostic disk",
+        "optionC": "Program disk",
+        "optionD": "Setup disk",
+        "answer": "System disk"
+    },
+	{
+		"id": "000070",
+        "question": "What is the name of the program that controls the overall functions of computer?",
+        "optionA": "A browser",
+        "optionB": "The file manager",
+        "optionC": "An application program",
+        "optionD": "The operating system",
+        "answer": "The operating system"
+    },
+	{
+		"id": "000071",
+        "question": "hich of the following is/are file extension(s) in DOS?",
+        "optionA": "COM",
+        "optionB": "BAT",
+        "optionC": "EXE",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000072",
+        "question": "A process having multiple threads of control implies",
+        "optionA": "Only one task at a time, but much faster",
+        "optionB": "More than one task at a time",
+        "optionC": "Only one thread per process to use",
+        "optionD": "All of the above",
+        "answer": "More than one task at a time"
+    },
+	{
+		"id": "000073",
+        "question": "Which command is used to set a name to a disk in DOS?",
+        "optionA": "DISKLABEL",
+        "optionB": "LABEL",
+        "optionC": "VOLUME",
+        "optionD": "VOL",
+        "answer": "LABEL"
+    },
+	{
+		"id": "000074",
+        "question": "What is the maximum length allowed for primary name of a computer file under DOS?",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "12",
+        "optionD": "8",
+        "answer": "8"
+    },
+	{
+		"id": "000075",
+        "question": "Maximum length of DOS command using any optional parameter is",
+        "optionA": "26 characters",
+        "optionB": "127 characters",
+        "optionC": "87 characters",
+        "optionD": "156 characters",
+        "answer": "127 characters"
+    },
+	{
+		"id": "000076",
+        "question": "Which command is used to clear the screen and display the operating system prompt on the first line of the display?",
+        "optionA": "Cls",
+        "optionB": "Cd",
+        "optionC": "Md",
+        "optionD": "Rename",
+        "answer": "Cls"
+    },
+	{
+		"id": "000077",
+        "question": "Delete directories",
+        "optionA": "skd, srbm",
+        "optionB": "nd, ndir",
+        "optionC": " rd, rmdir",
+        "optionD": "all of these",
+        "answer": " rd, rmdir"
+    },
+	{
+		"id": "000078",
+        "question": "The primarily takes care of the behind the scenes details and manages the hardware",
+        "optionA": "Hard disk",
+        "optionB": "Peripheral devices",
+        "optionC": " Application software",
+        "optionD": "Operating system",
+        "answer": "Operating system"
+    },
+	{
+		"id": "000079",
+        "question": "The capabilities of the operating system is to enable two or more than two programs to execute simultaneously in a single computer system by a single processor is",
+        "optionA": "Multi-execution",
+        "optionB": "Multi-programming",
+        "optionC": "Multi-tasking",
+        "optionD": "Multi-processing",
+        "answer": "Multi-programming"
+    },
+	{
+		"id": "000080",
+        "question": "While working with MS-DOS which command is used to more file from one directory to another?",
+        "optionA": "Cp",
+        "optionB": "Move",
+        "optionC": "Copy",
+        "optionD": "Rename",
+        "answer": "Move"
+    },
+	{
+		"id": "000081",
+        "question": "Characteristics of an operating system is/are",
+        "optionA": "Error recovery",
+        "optionB": "Resource management",
+        "optionC": "Memory management",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+	{
+		"id": "000082",
+        "question": "To display the list of all the file on the disk you would type",
+        "optionA": "DIR AUTOEXEC.BAT",
+        "optionB": "DIR FILES",
+        "optionC": "DIR",
+        "optionD": "COPY",
+        "answer": "DIR"
+    },
+	{
+		"id": "000083",
+        "question": "Internal commands in DOS are",
+        "optionA": "Del, disk, copy, label",
+        "optionB": "Dir, ren, sys",
+        "optionC": "Cls, rd label",
+        "optionD": "Time, type, dir",
+        "answer": "Time, type, dir"
+    },
+	{
+		"id": "000084",
+        "question": "____ controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+        "optionA": "Application software",
+        "optionB": "The motherboard",
+        "optionC": "The operating system",
+        "optionD": "The platform",
+        "answer": "The operating system"
+    },
+	{
+		"id": "000085",
+        "question": "____ loader is executed, when a system is first turned ON or restarted.",
+        "optionA": "Compile and Go",
+        "optionB": "Relating",
+        "optionC": "Harmish",
+        "optionD": "Bootstrap",
+        "answer": "Compile and Go"
+    },
+	{
+		"id": "000086",
+        "question": "All the time a computer is switched ON, its operating system software has to stay in",
+        "optionA": "DVDs",
+        "optionB": "CDs",
+        "optionC": "Main storage",
+        "optionD": "Primary storage",
+        "answer": "Primary storage"
+    },
+	{
+		"id": "000087",
+        "question": "The ___ commands are those which are included with “command.com” and no external file is needed to run those commands.",
+        "optionA": "Wild cards",
+        "optionB": "Super",
+        "optionC": "Internal",
+        "optionD": "External",
+        "answer": "Internal"
+    },
+	{
+		"id": "000088",
+        "question": "In UNIX, name the system call which create(s) the new process?",
+        "optionA": "Fork",
+        "optionB": "New",
+        "optionC": "Create",
+        "optionD": "Creation",
+        "answer": "Fork"
+    },
+	{
+		"id": "000089",
+        "question": "____ is/are not the functions of operating system.",
+        "optionA": "File management",
+        "optionB": "Processor management",
+        "optionC": "Resource management",
+        "optionD": "Networking",
+        "answer": "File management"
+    },
+	{
+		"id": "000090",
+        "question": "Operating system cannot be worked as a",
+        "optionA": "Memory manager",
+        "optionB": "Device manager",
+        "optionC": "Processor manager",
+        "optionD": "Communication manager",
+        "answer": "Communication manager"
+    },
+	{
+		"id": "000091",
+        "question": "The simultaneous processing of two or more programs by multiple processors is called",
+        "optionA": "Multi processing",
+        "optionB": "Time sharing",
+        "optionC": "Multi tasking",
+        "optionD": "Multi programming",
+        "answer": "Multi processing"
+    },
+	{
+		"id": "000092",
+        "question": "What is the collection of logically related information?",
+        "optionA": "File",
+        "optionB": "Word",
+        "optionC": "Processing",
+        "optionD": "Information",
+        "answer": "File"
+    },
+	{
+		"id": "000093",
+        "question": "Time sharing systems must also provide",
+        "optionA": "(A) Off line system",
+        "optionB": "(B) Online system",
+        "optionC": "Both (a) and (b)",
+        "optionD": "None of these",
+        "answer": "(B) Online system"
+    },
+	{
+		"id": "000094",
+        "question": "In MS-DOS what command you will use to display system date?",
+        "optionA": "Ver command",
+        "optionB": "Format command",
+        "optionC": "Date command",
+        "optionD": "Disk command",
+        "answer": "Date command"
+    },
+	{
+		"id": "000095",
+        "question": "What is the standard set of functions through which application interacts with the Kernel?",
+        "optionA": "Compilers",
+        "optionB": "Utility programs",
+        "optionC": "Kernel code",
+        "optionD": "System libraries",
+        "answer": "System libraries"
+    },
+	{
+		"id": "000096",
+        "question": "DEL command is used to",
+        "optionA": "Delete files",
+        "optionB": "Delete labels",
+        "optionC": "Delete contents",
+        "optionD": "Delete directory",
+        "answer": "Delete files"
+    },
+	{
+		"id": "000097",
+        "question": "____ is set of computer programs that run or control computer hardware and acts as an interface between application programs and users.",
+        "optionA": "The CPU",
+        "optionB": "An operating system",
+        "optionC": "Object code",
+        "optionD": "A compiler",
+        "answer": "An operating system"
+    },
+	{
+		"id": "000098",
+        "question": "An entire path name , consisting of several sub directory names can contain upto",
+        "optionA": "13 character",
+        "optionB": "36 character",
+        "optionC": "53 character",
+        "optionD": "63 character",
+        "answer": "63 character"
+    },
+	{
+		"id": "000099",
+        "question": "The ability of an operating system to run more than one application at a time is called",
+        "optionA": "Multi user computing",
+        "optionB": "Time sharing",
+        "optionC": "Object oriented programming",
+        "optionD": "Multi tasking",
+        "answer": "Multi tasking"
+    },
+	{
+		"id": "000100",
+        "question": "RESTORE command is used to",
+        "optionA": "Restore files which are deleted recently",
+        "optionB": "Restore files from disks made using the BACKUP command",
+        "optionC": "Restore files is used to",
+        "optionD": "Restore files from recycle bin",
+        "answer": "Restore files from disks made using the BACKUP command"
+    },
+	{
+		"id": "000101",
+        "question": "____ used to create a new Directory or nested Directories.",
+        "optionA": "MZND or MKMDIR",
+        "optionB": "MD or MKDIR",
+        "optionC": "MND or MKNDIR",
+        "optionD": "DM or MFDIR",
+        "answer": "MD or MKDIR"
+    },
+	{
+		"id": "000102",
+        "question": "While working with MS-DOS which command transfers a specific file from one disk to another?",
+        "optionA": "Diskcopy",
+        "optionB": "Copy",
+        "optionC": "Time",
+        "optionD": "Rename",
+        "answer": "Copy"
+    },
+	{
+		"id": "000103",
+        "question": "Restarting a running computer is called",
+        "optionA": "Normal boot",
+        "optionB": "Cold boot",
+        "optionC": "Cool boot",
+        "optionD": "Warm boot",
+        "answer": "Warm boot"
+    },
+	{
+		"id": "000104",
+        "question": "Which of the following extensions suggest that the file is backup copy",
+        "optionA": "Txt",
+        "optionB": "Bak",
+        "optionC": "Com",
+        "optionD": "Bas",
+        "answer": "Bak"
+    },
+	{
+		"id": "000105",
+        "question": "Embedded operating system used",
+        "optionA": "On a mainframe",
+        "optionB": "On a PDA",
+        "optionC": "On a desktop operating system",
+        "optionD": "On a networked PC",
+        "answer": "On a PDA"
+    },
+	{
+		"id": "000106",
+        "question": "Extension name may be ___ to ___ characters.",
+        "optionA": "0-5",
+        "optionB": "0-6",
+        "optionC": "2-9",
+        "optionD": "0-3",
+        "answer": "0-3"
+    },
+	{
+		"id": "000107",
+        "question": "Multi programming systems",
+        "optionA": "Are used only on large mainframe computers",
+        "optionB": "Are easier to develop than single programming systems",
+        "optionC": "Execute more jobs at the same time",
+        "optionD": "Execute each faster",
+        "answer": "Execute more jobs at the same time"
+    },
+	{
+		"id": "000108",
+        "question": "The operating system determines the manner in which all of the following occurs except",
+        "optionA": "Data displayed on the monitor",
+        "optionB": "Printer output",
+        "optionC": "User interaction with the processor",
+        "optionD": "User creation of a document",
+        "answer": "User creation of a document"
+    },
+	{
+		"id": "000109",
+        "question": "Which command is used to make a new directory?",
+        "optionA": "Rd",
+        "optionB": "Sd",
+        "optionC": "Cd",
+        "optionD": "Md",
+        "answer": "Md"
+    },
+	{
+		"id": "000110",
+        "question": "To execute more than one program at a time, the system software used must be capable of",
+        "optionA": "Multi-tasking",
+        "optionB": "Coupling",
+        "optionC": "Virtual memory",
+        "optionD": "Word processing",
+        "answer": "Multi-tasking"
+    },
+	{
+		"id": "000111",
+        "question": "CHKDSK command is used to",
+        "optionA": "Report the status of files on disk",
+        "optionB": "Diagnose the hard disk error",
+        "optionC": "Analyze the hard disk error",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+	{
+		"id": "000112",
+        "question": "A memory resident command refers to",
+        "optionA": "Wild cards",
+        "optionB": "Pipes",
+        "optionC": "Internal command",
+        "optionD": "External command",
+        "answer": "Internal command"
+    },
+	{
+		"id": "000113",
+        "question": "Which command is used to get the current date only?",
+        "optionA": "Date",
+        "optionB": "Time",
+        "optionC": "Second",
+        "optionD": "All of the above",
+        "answer": "Date"
+    },
+	{
+		"id": "000114",
+        "question": "The vol command is used to",
+        "optionA": "See the volume of largest",
+        "optionB": "See the disk volume label",
+        "optionC": "See the variety of language",
+        "optionD": "See the value of list",
+        "answer": "See the disk volume label"
+    },
+	{
+		"id": "000115",
+        "question": "Turn on the computer for first time on a day is called a",
+        "optionA": " Hot boot",
+        "optionB": "Cold boot",
+        "optionC": "Cool boot",
+        "optionD": "Warm boot",
+        "answer": "Cold boot"
+    },
+	{
+		"id": "000116",
+        "question": "Process that starts up a computer is called",
+        "optionA": "Processing",
+        "optionB": "Starting",
+        "optionC": "Booting",
+        "optionD": "All of these",
+        "answer": "Booting"
+    },
+	{
+		"id": "000117",
+        "question": "A(n) ___ is a set of programs that manage computer hardware resources and provide common services for application software.",
+        "optionA": "Operating system",
+        "optionB": "MS PowerPoint",
+        "optionC": "MS Word",
+        "optionD": "Web browser",
+        "answer": "Operating system"
+    },
+	{
+		"id": "000118",
+        "question": "____ is a file that includes a series of commands that are executed in sequence without any input from the user.",
+        "optionA": "Batch file",
+        "optionB": "Path",
+        "optionC": "Pipe",
+        "optionD": "All of these",
+        "answer": "Batch file"
+    },
+	{
+		"id": "000119",
+        "question": "DIR command is used to",
+        "optionA": "Display a list of files in a directory",
+        "optionB": "Display type of files in a sub directory",
+        "optionC": "Display contents of files in directory",
+        "optionD": "All of the above",
+        "answer": "Display a list of files in a directory"
+    },
+	{
+		"id": "000120",
+        "question": "_____ is the sequence of directories and subdirectories the operating system must follow to find a specific file.",
+        "optionA": "Internal command",
+        "optionB": "Path",
+        "optionC": "External command",
+        "optionD": "Extension",
+        "answer": "Path"
+    },
+	{
+		"id": "000121",
+        "question": "Which command divides the surface of the blank disk into sectors and assign a unique address to each one",
+        "optionA": "Chkdsk",
+        "optionB": "Ver",
+        "optionC": "Format",
+        "optionD": "Fat",
+        "answer": "Format"
+    },
+	{
+		"id": "000122",
+        "question": "The operating system that is self contained in a device and resident in the ROM is known as",
+        "optionA": "Multi processor operating system",
+        "optionB": "Embedded operating system",
+        "optionC": "Real time operating system",
+        "optionD": "Batch operating system",
+        "answer": "Embedded operating system"
+    },
+	{
+		"id": "000123",
+        "question": "What are the two basic types of operating systems?",
+        "optionA": "Batch and interactive",
+        "optionB": "Sequential and real time",
+        "optionC": "Sequential and direct",
+        "optionD": "Batch and time sharing",
+        "answer": "Batch and time sharing"
+    },
+	{
+		"id": "000124",
+        "question": "The operating system as a file management keeps track of information, its location, use, status etc. The facilities are collectively called the",
+        "optionA": "File allocation management",
+        "optionB": "File system",
+        "optionC": "Storage manager",
+        "optionD": "File tracker",
+        "answer": "File system"
+    },
+	{
+		"id": "000125",
+        "question": "_____ is a file that includes a series of commands that are executed in sequence without any input from the user.",
+        "optionA": "Batch file",
+        "optionB": "Path",
+        "optionC": "Pipe",
+        "optionD": "All of these",
+        "answer": "Batch file"
+    },
+	{
+		"id": "000126",
+        "question": "The deleted file in MS-DOS can be recovered if you use the command mention below immediately, the command is",
+        "optionA": "DO NOT DELETE",
+        "optionB": "NO DELETE",
+        "optionC": "ONDELETE",
+        "optionD": "UNDELETE",
+        "answer": "UNDELETE"
+    },
+	{
+		"id": "000127",
+        "question": "A front end processor is used in",
+        "optionA": "Multi programming",
+        "optionB": "Virtual storage",
+        "optionC": "Multi Network",
+        "optionD": "Time sharing",
+        "answer": "Time sharing"
+    },
+	{
+		"id": "000128",
+        "question": "The operating system manages",
+        "optionA": "Disks & I/O devices",
+        "optionB": "Processor",
+        "optionC": "Memory",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000129",
+        "question": "Which command is used to see the sub directory structure of drive?",
+        "optionA": "Tree",
+        "optionB": "Subtree",
+        "optionC": "Subdir",
+        "optionD": " List",
+        "answer": "Tree"
+    },
+	{
+		"id": "000130",
+        "question": "External command is DOS are",
+        "optionA": "Sys, ver, vol",
+        "optionB": "Chkdsk, prompt, date",
+        "optionC": "Edit, sys, chkdsk",
+        "optionD": "Copy, edit, sys, format",
+        "answer": "Edit, sys, chkdsk"
+    },
+	{
+		"id": "000131",
+        "question": "If you need to duplicate the entire disk, which command will you use?",
+        "optionA": "Format",
+        "optionB": "Diskcopy",
+        "optionC": "Chkdsk",
+        "optionD": "Copy",
+        "answer": "Diskcopy"
+    },
+	{
+		"id": "000132",
+        "question": "Which of the following error will not be handled by the operating system?",
+        "optionA": "Connection failure in the network",
+        "optionB": "Dust out from the system unit",
+        "optionC": "Power failure",
+        "optionD": "Lack of paper in printer",
+        "answer": "Dust out from the system unit"
+    },
+	{
+		"id": "000133",
+        "question": "Copy and Xcopy are same in the sense",
+        "optionA": "Both are internal command of DOS",
+        "optionB": "Both are external commands of DOS",
+        "optionC": "Both can be used to copy file or group of files",
+        "optionD": "Both a and b",
+        "answer": "Both can be used to copy file or group of files"
+    },
+	{
+		"id": "000134",
+        "question": "_____ command defines a list of directories DOS searches for external commands.",
+        "optionA": "MNKD",
+        "optionB": "DSKCHK",
+        "optionC": "TREE",
+        "optionD": "PATH",
+        "answer": "PATH"
+    },
+	{
+		"id": "000135",
+        "question": "Which of the following(s) is/are the characteristic(s) of UNIX?",
+        "optionA": "Multi user",
+        "optionB": "Multi tasking",
+        "optionC": "Kernel Manages data",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000136",
+        "question": "What happens when you boot up a PC?",
+        "optionA": "Portions of the operating system are copied from disk into memory",
+        "optionB": "Portions of the operating system are compiled",
+        "optionC": "Portions of the operating system are copied from memory onto disk",
+        "optionD": "Portions of the operating system are emulated",
+        "answer": "Portions of the operating system are copied from disk into memory"
+    },
+	{
+		"id": "000137",
+        "question": "The operating system as a devices management keeps track of devices, channels and control units is called as",
+        "optionA": "I/O receiver",
+        "optionB": "I/O traffic controller",
+        "optionC": "I/O manager",
+        "optionD": "I/O dispatch",
+        "answer": "I/O traffic controller"
+    },
+	{
+		"id": "000138",
+        "question": "Which command should be used to display all files within the specified subordinate directory of the subdirectory?",
+        "optionA": "Dir / ch",
+        "optionB": "Dir pathnamepathname",
+        "optionC": "Dir pathnamepathname",
+        "optionD": "Dir pathname",
+        "answer": "Dir pathnamepathname"
+    },
+	{
+		"id": "000139",
+        "question": "Which command displays only file and directory names without size, date and time information?",
+        "optionA": "Dir a",
+        "optionB": "Dir b",
+        "optionC": "Dir/w",
+        "optionD": "Dir/s",
+        "answer": "Dir b"
+    },
+	{
+		"id": "000140",
+        "question": "Distributed processing involves",
+        "optionA": "Allowing users to share files on a network",
+        "optionB": "Allowing users to access network resources away from the office",
+        "optionC": "Solving computing problems by breaking them into smaller parts that are separately processed by different computers",
+        "optionD": "Solving computer component problems from a different computer",
+        "answer": "Solving computing problems by breaking them into smaller parts that are separately processed by different computers"
+    },
+	{
+		"id": "000141",
+        "question": "Which command is used to see the version?",
+        "optionA": "Veer",
+        "optionB": "Ver",
+        "optionC": "Version",
+        "optionD": "Verson",
+        "answer": "Ver"
+    },
+	{
+		"id": "000142",
+        "question": "We use this command to create a new file.",
+        "optionA": "DCOPY COM.N",
+        "optionB": "COPY CON",
+        "optionC": "DCOPY COM",
+        "optionD": "DCOPY COMN",
+        "answer": "COPY CON"
+    },
+	{
+		"id": "000143",
+        "question": "What is the program in the operating system that does processor management?",
+        "optionA": "Job scheduler",
+        "optionB": "Traffic controller",
+        "optionC": "Process scheduler",
+        "optionD": "Dispatcher",
+        "answer": "Traffic controller"
+    },
+	{
+		"id": "000144",
+        "question": "Which of the following is/are file extension(s) in DOS?",
+        "optionA": "EXE",
+        "optionB": "COM",
+        "optionC": "BAT",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000145",
+        "question": "When a interrupt occurs, an operating system",
+        "optionA": "May change state of interrupted process to blocked and schedule another process",
+        "optionB": "Always resumes execution of interrupted process after processing the interrupt",
+        "optionC": "Always changes state of interrupted process after processing the interrupt",
+        "optionD": "Ignores the interrupt",
+        "answer": "May change state of interrupted process to blocked and schedule another process"
+    },
+	{
+		"id": "000146",
+        "question": "The process scheduler in the processor management unit",
+        "optionA": "Co-ordinates the process synchronization",
+        "optionB": "Selects a process to run",
+        "optionC": "Selects a job to run",
+        "optionD": "Gives all submitted jobs to the job scheduler",
+        "answer": "Selects a process to run"
+    },
+	{
+		"id": "000147",
+        "question": "Turnaround time is defined as",
+        "optionA": "Waiting time",
+        "optionB": "Delay between job submission and job completion",
+        "optionC": "Interrupt time",
+        "optionD": "None of these",
+        "answer": "Delay between job submission and job completion"
+    },
+	{
+		"id": "000148",
+        "question": "Restrictive type of real time system is called",
+        "optionA": "Hard real time system",
+        "optionB": "Soft real time system",
+        "optionC": "Hard real time system",
+        "optionD": "None of these",
+        "answer": "Hard real time system"
+    },
+	{
+		"id": "000149",
+        "question": "Special software to create a job queue is called",
+        "optionA": "Linkage editor",
+        "optionB": "Interpreter",
+        "optionC": "Spooler",
+        "optionD": "Drive",
+        "answer": "Spooler"
+    },
+	{
+		"id": "000150",
+        "question": "Real time systems are",
+        "optionA": "Used for real time interactive users",
+        "optionB": "Used for program analysis",
+        "optionC": "Used for monitoring events as they occur",
+        "optionD": "Primarily used on mainframe computers",
+        "answer": "Used for monitoring events as they occur"
+    },
+	{
+		"id": "000151",
+        "question": "The major operating system used in computer is",
+        "optionA": "UNIX",
+        "optionB": "OS/2",
+        "optionC": "MS-DOS",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000152",
+        "question": "User-friendly systems are",
+        "optionA": "Required for batch-oriented processing",
+        "optionB": "Becoming more common",
+        "optionC": "Easy to develop",
+        "optionD": "Common among traditional mainframe operating systems",
+        "answer": "Becoming more common"
+    },
+	{
+		"id": "000153",
+        "question": "Device independence",
+        "optionA": "Allows tape drives to be substituted for disk drives",
+        "optionB": "Makes all devices look the same to the operating systems",
+        "optionC": "Allows programs to be written much more easily",
+        "optionD": "Allows the computer to run without I/O devices",
+        "answer": "Allows programs to be written much more easily"
+    },
+	{
+		"id": "000154",
+        "question": "The most important features of Microsoft windows program is (are)",
+        "optionA": "ICONS",
+        "optionB": "Pull-down menus",
+        "optionC": "Windows",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000155",
+        "question": "Block cache and buffer cache are used",
+        "optionA": "To speed up main memory read operation",
+        "optionB": "To increase the capacity of the main memory",
+        "optionC": "To handle interrupts",
+        "optionD": "To improve disk performance",
+        "answer": "To improve disk performance"
+    },
+	{
+		"id": "000156",
+        "question": "Memory management is",
+        "optionA": "Critical for even the simplest operating systems",
+        "optionB": "Not used on multiprogramming systems",
+        "optionC": "Replaced with virtual memory on current systems",
+        "optionD": "Not used in modern operating systems",
+        "answer": "Replaced with virtual memory on current systems"
+    },
+	{
+		"id": "000157",
+        "question": "The state transition initiated by the user process itself in an operating system is",
+        "optionA": "Timer run out",
+        "optionB": "Wake up",
+        "optionC": "Dispatch",
+        "optionD": "Block",
+        "answer": "Block"
+    },
+	{
+		"id": "000158",
+        "question": "Operating system",
+        "optionA": "Enables the programmer to draw a flow chart",
+        "optionB": "Links a program with subroutine it references",
+        "optionC": "Provides a layer, user friendly interface",
+        "optionD": "All of these",
+        "answer": "Provides a layer, user friendly interface"
+    },
+	{
+		"id": "000159",
+        "question": "An operating system contains 3 user processes each requiring 2 units of resource R. The minimum number of units of R such that no deadlocks will ever arise is",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "5",
+        "optionD": "6",
+        "answer": "4"
+    },
+	{
+		"id": "000160",
+        "question": "A critical section is a program segment",
+        "optionA": "Which must be enclosed by a pair of semaphore operations, P and V",
+        "optionB": "Where shared resources are accessed",
+        "optionC": "Which avoids deadlocks",
+        "optionD": "Which should run in a certain specified amount of time",
+        "answer": "Where shared resources are accessed"
+    },
+	{
+		"id": "000161",
+        "question": "User-friendly systems are",
+        "optionA": "Easy to develop",
+        "optionB": "Required for batch-oriented processing",
+        "optionC": "Becoming more common",
+        "optionD": "Common among traditional mainframe operating systems",
+        "answer": "Becoming more common"
+    },
+	{
+		"id": "000162",
+        "question": "Which of the following operating system write through catches?",
+        "optionA": "ULTRIX",
+        "optionB": "DOS",
+        "optionC": "XENIX",
+        "optionD": "UNIX",
+        "answer": "DOS"
+    },
+	{
+		"id": "000163",
+        "question": "Most popular 16-bit operating system is",
+        "optionA": "TRS-DOS",
+        "optionB": "MS-DOS",
+        "optionC": "UNIX",
+        "optionD": "CP/M",
+        "answer": "MS-DOS"
+    },
+	{
+		"id": "000164",
+        "question": "Spooling is most beneficial in multi-programming environment where",
+        "optionA": "There is limited primary memory and need for secondary memory",
+        "optionB": "Jobs are evenly divided as I/O bound and CPU bound",
+        "optionC": "Most jobs are I/O bound",
+        "optionD": "Most jobs are CPU-bound",
+        "answer": "Jobs are evenly divided as I/O bound and CPU bound"
+    },
+	{
+		"id": "000165",
+        "question": "Which of the following is not an advantage of multiprogramming?",
+        "optionA": "Decreased operating system overhead",
+        "optionB": "Ability to assign priorities to jobs",
+        "optionC": "Shorter response time",
+        "optionD": "Increased throughput",
+        "answer": "Decreased operating system overhead"
+    },
+	{
+		"id": "000166",
+        "question": "A computer has six tape drives, with n processes competing for them. Each process may need two drives. What is the maximum value of n for the systems to be deadlock free?",
+        "optionA": "3",
+        "optionB": "4",
+        "optionC": "5",
+        "optionD": "6",
+        "answer": "4"
+    },
+	{
+		"id": "000167",
+        "question": "Thrashing",
+        "optionA": "Can be caused by poor paging algorithms",
+        "optionB": "Always occur on large computers",
+        "optionC": "Can always be avoided by swapping",
+        "optionD": "Is a natural consequence of virtual memory system",
+        "answer": "Can be caused by poor paging algorithms"
+    },
+	{
+		"id": "000168",
+        "question": "Multiprocessor is used because",
+        "optionA": "Distributed capability",
+        "optionB": "They increase reliability",
+        "optionC": "It saves money compared to multiple single systems",
+        "optionD": "All of these",
+        "answer": "All of these"
+    },
+	{
+		"id": "000169",
+        "question": "Dirty bit for a page in a page table",
+        "optionA": "Allows only read on a page",
+        "optionB": "Helps maintain LRU information",
+        "optionC": "Helps avoid unnecessary writes on a paging device",
+        "optionD": "None of these",
+        "answer": "Helps avoid unnecessary writes on a paging device"
+    },
+	{
+		"id": "000170",
+        "question": "Multithreading on a multi CPU machine",
+        "optionA": "can increase or decrease the concurrency",
+        "optionB": "doesn't affected the concurrency",
+        "optionC": "decreases concurrency",
+        "optionD": "increases concurrency",
+        "answer": "increases concurrency"
+    }
+	
+]

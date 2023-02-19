@@ -1,0 +1,949 @@
+[
+    {
+        "id": "100000",
+        "question": "Which command creates a new shell?",
+        "optionA": "ah",
+        "optionB": "oh",
+        "optionC": " ch",
+        "optionD": "sh",
+        "answer": "sh"
+    },
+	{
+        "id": "100001",
+        "question": "The cd command stands for",
+        "optionA": "complete directory",
+        "optionB": "created directory",
+        "optionC": "change directory",
+        "optionD": "current directory",
+        "answer": "change directory"
+    },
+	{
+        "id": "100002",
+        "question": "This command formats a floppy _____",
+        "optionA": "mkfs",
+        "optionB": "mkf",
+        "optionC": "mks",
+        "optionD": "man",
+        "answer": "mkfs"
+    },
+	{
+        "id": "100003",
+        "question": "Which key should be pressed to save a file in line editing mode?",
+        "optionA": "x",
+        "optionB": "s",
+        "optionC": "n",
+        "optionD": "w",
+        "answer": "w"
+    },
+	{
+        "id": "100004",
+        "question": "Hard disk partition is prefixed by",
+        "optionA": "hd",
+        "optionB": "hda",
+        "optionC": "hda2",
+        "optionD": "dha",
+        "answer": "hd"
+    },
+	{
+        "id": "100005",
+        "question": "Which command allows you to change a word?",
+        "optionA": "co",
+        "optionB": "dd",
+        "optionC": "dw",
+        "optionD": "cw",
+        "answer": "cw"
+    },
+	{
+        "id": "100006",
+        "question": "A directory under a directory is called as",
+        "optionA": "root directory",
+        "optionB": "parent directory",
+        "optionC": "sub directory",
+        "optionD": "child directory",
+        "answer": "sub directory"
+    },
+	{
+        "id": "100007",
+        "question": "Which command will undo the last modification?",
+        "optionA": "o",
+        "optionB": "n",
+        "optionC": "u",
+        "optionD": "d",
+        "answer": "u"
+    },
+	{
+        "id": "100008",
+        "question": "Double dot (..) with cd refers to",
+        "optionA": "created directory",
+        "optionB": "current directory",
+        "optionC": "parent directory",
+        "optionD": "change directory",
+        "answer": "parent directory"
+    },
+	{
+        "id": "100009",
+        "question": "Which version can run on any machine available now?",
+        "optionA": "suitable Unix",
+        "optionB": "suitable Linux",
+        "optionC": "suitable Xenix",
+        "optionD": "suitable Minix",
+        "answer": "suitable Linux"
+    },
+	{
+        "id": "100010",
+        "question": "User directories are created under",
+        "optionA": "Bin directory",
+        "optionB": "Home directory",
+        "optionC": "Tmp directory",
+        "optionD": "Dev directory",
+        "answer": "Home directory"
+    },
+	{
+        "id": "100011",
+        "question": "The user who creates the file is called as the",
+        "optionA": "File owner",
+        "optionB": "System owner",
+        "optionC": "Group owner",
+        "optionD": "Other users",
+        "answer": "File owner"
+    },
+	{
+        "id": "100012",
+        "question": "Which system provides excellent security features?",
+        "optionA": "DOS",
+        "optionB": "Xenix",
+        "optionC": "Minix",
+        "optionD": "Linux",
+        "answer": "Linux"
+    },
+	{
+        "id": "100013",
+        "question": "What is the key used to join a line?",
+        "optionA": "L",
+        "optionB": "J",
+        "optionC": "O",
+        "optionD": "N",
+        "answer": "J"
+    },
+	{
+        "id": "100014",
+        "question": "mnt stands for",
+        "optionA": "move",
+        "optionB": "moving",
+        "optionC": "mounting",
+        "optionD": "mount",
+        "answer": "mount"
+    },
+	{
+        "id": "100015",
+        "question": "In command mode, all keys on the keyboard become what command?",
+        "optionA": "Managing",
+        "optionB": "Editing",
+        "optionC": "Inserting",
+        "optionD": "Formatting",
+        "answer": "Editing"
+    },
+	{
+        "id": "100016",
+        "question": "Which command takes the standard output as input and send it to the printer?",
+        "optionA": "Lpr",
+        "optionB": "Pipe",
+        "optionC": "More",
+        "optionD": "Tee",
+        "answer": "Lpr"
+    },
+	{
+        "id": "100017",
+        "question": "This structure prevents name collision",
+        "optionA": "Root",
+        "optionB": "Tree",
+        "optionC": "Branch",
+        "optionD": "Leaf",
+        "answer": "Tree"
+    },
+	{
+        "id": "100018",
+        "question": "Who was very much attracted by the elegance and effectiveness of UNIX?",
+        "optionA": "Andrew",
+        "optionB": "Ken",
+        "optionC": "Dennis",
+        "optionD": "Linus",
+        "answer": "Linus"
+    },
+	{
+        "id": "100019",
+        "question": "The first ___ always represents the root directory.",
+        "optionA": " – minus",
+        "optionB": "/ slash",
+        "optionC": "* asterisks",
+        "optionD": "+ plus",
+        "answer": "/ slash"
+    },
+	{
+        "id": "100020",
+        "question": "Which key indicate you that part of the screen is not in the file?",
+        "optionA": " ~ Tilde",
+        "optionB": " : Colon",
+        "optionC": "Esc",
+        "optionD": "Enter",
+        "answer": "~ Tilde"
+    },
+	{
+        "id": "100021",
+        "question": "Which text file contains Linux commands?",
+        "optionA": "Editor script",
+        "optionB": "Unix script",
+        "optionC": "Minix script",
+        "optionD": "Shell script",
+        "answer": "Shell script"
+    },
+	{
+        "id": "100022",
+        "question": "The extension is used to ___ the files.",
+        "optionA": "Delete",
+        "optionB": "Identify",
+        "optionC": "Classify",
+        "optionD": "None",
+        "answer": "Classify"
+    },
+	{
+        "id": "100023",
+        "question": "Which operating system was developed by the contribution of many people throughout the world?",
+        "optionA": "Minix",
+        "optionB": "Unix",
+        "optionC": "Linux",
+        "optionD": "Xenix",
+        "answer": "Linux"
+    },
+	{
+        "id": "100024",
+        "question": "Which version of UNIX was handled by the students of the University of Helsinki?",
+        "optionA": "Linux",
+        "optionB": "Minix",
+        "optionC": "Unix",
+        "optionD": "Xenix",
+        "answer": "Minix"
+    },
+	{
+        "id": "100025",
+        "question": "Which standard of Unix was followed by Linux?",
+        "optionA": "Byte code",
+        "optionB": "ANSI",
+        "optionC": "ASCII",
+        "optionD": "Unicode",
+        "answer": "ANSI"
+    },
+	{
+        "id": "100026",
+        "question": "Linux systems allow many users to work",
+        "optionA": "Simultaneously",
+        "optionB": "Constantly",
+        "optionC": "Separately",
+        "optionD": "None",
+        "answer": "Simultaneously"
+    },
+	{
+        "id": "100027",
+        "question": "All directories are stored under one main directory called ____",
+        "optionA": "Server",
+        "optionB": "Home",
+        "optionC": "Folder",
+        "optionD": "Root",
+        "answer": "Root"
+    },
+	{
+        "id": "100028",
+        "question": "The full name of directory is called as",
+        "optionA": "Physical name",
+        "optionB": "Path name",
+        "optionC": "Primary name",
+        "optionD": "Proper name",
+        "answer": "Path name"
+    },
+	{
+        "id": "100029",
+        "question": "The prompt of the other users is",
+        "optionA": "$",
+        "optionB": "%",
+        "optionC": "@",
+        "optionD": "#",
+        "answer": "$"
+    },
+	{
+        "id": "100030",
+        "question": "Which program combines Linux commands to solve the given problems?",
+        "optionA": "Compiler",
+        "optionB": "OS",
+        "optionC": "Shell",
+        "optionD": "Kernel",
+        "answer": "Shell"
+    },
+	{
+        "id": "100031",
+        "question": "What is the syntax for mounting CD-ROMs?",
+        "optionA": " # mount /mnt/cdrw",
+        "optionB": "# mount / mnt/cdrom",
+        "optionC": "# mount/ mnt/cd",
+        "optionD": "# mount/mnt/cdr",
+        "answer": "# mount / mnt/cdrom"
+    },
+	{
+        "id": "100032",
+        "question": "What is the space between end of the line and end of the screen is called as?",
+        "optionA": "Dead space",
+        "optionB": "White space",
+        "optionC": "Blank space",
+        "optionD": "Empty space",
+        "answer": "Dead space"
+    },
+	{
+        "id": "100033",
+        "question": "The Vi editor, makes the keyboard to play a ___ role",
+        "optionA": "Single",
+        "optionB": "Multiple",
+        "optionC": "Dual",
+        "optionD": "Solo",
+        "answer": "Dual"
+    },
+	{
+        "id": "100034",
+        "question": "In what mode of editing, the keyboard behaves as a normal typewriter with the exception?",
+        "optionA": "Input mode",
+        "optionB": "Command mode",
+        "optionC": "Editing mode",
+        "optionD": "Formatting mode",
+        "answer": "Input mode"
+    },
+	{
+        "id": "100035",
+        "question": "End of file is referred by",
+        "optionA": "fd 0",
+        "optionB": "fd 1",
+        "optionC": "fd 2",
+        "optionD": "fd 3",
+        "answer": "fd 0"
+    },
+	{
+        "id": "100036",
+        "question": "Which command takes data from one command to another command?",
+        "optionA": "Cat",
+        "optionB": "Pipe",
+        "optionC": "More",
+        "optionD": "Tee",
+        "answer": "Pipe"
+    },
+	{
+        "id": "100037",
+        "question": "Can the password and the user name be the same?",
+        "optionA": "Sometimes",
+        "optionB": "Yes",
+        "optionC": "No",
+        "optionD": "Not always",
+        "answer": "Yes"
+    },
+	{
+        "id": "100038",
+        "question": "What is the command that saves the files when the file actually exists?",
+        "optionA": "NN",
+        "optionB": "DD",
+        "optionC": "ZZ",
+        "optionD": "YY",
+        "answer": "ZZ"
+    },
+	{
+        "id": "100039",
+        "question": "We do not have the control over",
+        "optionA": "Command",
+        "optionB": "Constant",
+        "optionC": "Variable",
+        "optionD": "None",
+        "answer": "Command"
+    },
+	{
+        "id": "100040",
+        "question": "Collection of files is called as a",
+        "optionA": "Directory",
+        "optionB": "Root",
+        "optionC": "Field",
+        "optionD": "Home",
+        "answer": "Directory"
+    },
+	{
+        "id": "100041",
+        "question": "How much of memory space is occupied by Linux?",
+        "optionA": "4 MB",
+        "optionB": "6 MB",
+        "optionC": "8 MB",
+        "optionD": "12 MB",
+        "answer": "4 MB"
+    },
+	{
+        "id": "100042",
+        "question": "The file name can be up to ___ character.",
+        "optionA": "253",
+        "optionB": "254",
+        "optionC": "255",
+        "optionD": "256",
+        "answer": "256"
+    },
+	{
+        "id": "100043",
+        "question": "The prompt of the root user is",
+        "optionA": "@",
+        "optionB": "#",
+        "optionC": "%",
+        "optionD": "$",
+        "answer": "#"
+    },
+	{
+        "id": "100044",
+        "question": "Linux default shell is",
+        "optionA": "BAH shell",
+        "optionB": "SH shell",
+        "optionC": "ASH shell",
+        "optionD": "BASH shell",
+        "answer": "BAH shell"
+    },
+	{
+        "id": "100045",
+        "question": "Help for all commands is available at",
+        "optionA": "Man command",
+        "optionB": "Help command",
+        "optionC": "Join command",
+        "optionD": "Tput command",
+        "answer": "Man command"
+    },
+	{
+        "id": "100046",
+        "question": "The option is influenced by the ___ preceding it.",
+        "optionA": "File",
+        "optionB": "Folder",
+        "optionC": "Directory",
+        "optionD": "Command",
+        "answer": "Command"
+    },
+	{
+        "id": "100047",
+        "question": "Which of the following is used to append the contents of a file?",
+        "optionA": "=",
+        "optionB": ">>",
+        "optionC": ">",
+        "optionD": "<",
+        "answer": ">>"
+    },
+	{
+        "id": "100048",
+        "question": "The ___ process does not allow any unauthorized person to access any of our directories or files.",
+        "optionA": "Confirmation",
+        "optionB": "Analyzing",
+        "optionC": "Verification",
+        "optionD": "Substantiation",
+        "answer": "Verification"
+    },
+	{
+        "id": "100049",
+        "question": "Which indicate you to find the mode you are working?",
+        "optionA": "Indicator on",
+        "optionB": "Beep sound",
+        "optionC": "Status prompt",
+        "optionD": "Prompt",
+        "answer": "Beep sound"
+    },
+	{
+        "id": "100050",
+        "question": "Who are placeholders to store values?",
+        "optionA": "Constants",
+        "optionB": "Variables",
+        "optionC": "OS",
+        "optionD": "Shell",
+        "answer": "Variables"
+    },
+	{
+        "id": "100051",
+        "question": "What type of editing is possible by Ed editor?",
+        "optionA": "One command",
+        "optionB": "One file",
+        "optionC": "One line",
+        "optionD": "One page",
+        "answer": "One line"
+    },
+	{
+        "id": "100052",
+        "question": "____ command clears the screen",
+        "optionA": "Clear",
+        "optionB": "Cls",
+        "optionC": "Clear all",
+        "optionD": "Clean screen",
+        "answer": "Clear"
+    },
+	{
+        "id": "100053",
+        "question": "Which of the following is called as the redirection operator for output?",
+        "optionA": "=",
+        "optionB": "<<",
+        "optionC": "<",
+        "optionD": ">",
+        "answer": ">"
+    },
+	{
+        "id": "100054",
+        "question": "The complete path name of a file or directory is",
+        "optionA": "Root name",
+        "optionB": "Tree name",
+        "optionC": "Relative path name",
+        "optionD": "Absolute path name",
+        "answer": "Absolute path name"
+    },
+	{
+        "id": "100055",
+        "question": "For what based of PC’s, Linux was specifically designed?",
+        "optionA": "Intel",
+        "optionB": "HCL",
+        "optionC": "Wipro",
+        "optionD": "IBM",
+        "answer": "Intel"
+    },
+	{
+        "id": "100056",
+        "question": "From where did the file system can be used to unambiguously identified and referenced?",
+        "optionA": "Tree structure",
+        "optionB": "Folders",
+        "optionC": "Home directory",
+        "optionD": "Root directory",
+        "answer": "Tree structure"
+    },
+	{
+        "id": "100057",
+        "question": "Which feature is used to prevent overwriting an existing file the redirection operation?",
+        "optionA": "Mkfs",
+        "optionB": "Man",
+        "optionC": "Cat",
+        "optionD": "Noclobber",
+        "answer": "Noclobber"
+    },
+	{
+        "id": "100058",
+        "question": "When we want replace a file system we have to ____ the present file system.",
+        "optionA": "Cancel",
+        "optionB": "Remove",
+        "optionC": "Unmount",
+        "optionD": "Mount",
+        "answer": "Unmount"
+    },
+	{
+        "id": "100059",
+        "question": "A record consists of",
+        "optionA": "Files",
+        "optionB": "Folders",
+        "optionC": "Fields",
+        "optionD": "Datas",
+        "answer": "Fields"
+    },
+	{
+        "id": "100060",
+        "question": "In Linux, if all the members of the group share their files, they are called as",
+        "optionA": "File owner",
+        "optionB": "Group users",
+        "optionC": "Other users",
+        "optionD": "File users",
+        "answer": "Group users"
+    },
+	{
+        "id": "100061",
+        "question": "Who can change his/her password with the password command?",
+        "optionA": "Shell",
+        "optionB": "The worker",
+        "optionC": "Guest user",
+        "optionD": " A user",
+        "answer": " A user"
+    },
+	{
+        "id": "100062",
+        "question": "When you are in the command mode, what takes you to the line editing mode?",
+        "optionA": ": colon",
+        "optionB": "Esc",
+        "optionC": "Cursor",
+        "optionD": "Enter",
+        "answer": ": colon"
+    },
+	{
+        "id": "100063",
+        "question": "Which command copies the contents of the source file after creating the destination file?",
+        "optionA": ".mv",
+        "optionB": "cp",
+        "optionC": "cat",
+        "optionD": ".rm",
+        "answer": "cp"
+    },
+	{
+        "id": "100064",
+        "question": "Which command allows you to delete a word?",
+        "optionA": "cc",
+        "optionB": "dd",
+        "optionC": "cw",
+        "optionD": "dw",
+        "answer": "dw"
+    },
+	{
+        "id": "100065",
+        "question": "Which shell provides many of the tools found in C language?",
+        "optionA": "Minix",
+        "optionB": "Xenix",
+        "optionC": "Linux",
+        "optionD": "Unix",
+        "answer": "Linux"
+    },
+	{
+        "id": "100066",
+        "question": "Which was widely distributed over the Internet?",
+        "optionA": "Linux",
+        "optionB": "Unix",
+        "optionC": "Minix",
+        "optionD": "Xenix",
+        "answer": "Linux"
+    },
+	{
+        "id": "100067",
+        "question": "Which was the operating system was created mainly by the efforts of Ken Thomson?",
+        "optionA": "Unix",
+        "optionB": "Linux",
+        "optionC": "Minix",
+        "optionD": "Xenix",
+        "answer": "Unix"
+    },
+	{
+        "id": "100068",
+        "question": "Which command displays the contents of a file?",
+        "optionA": "cat",
+        "optionB": "T pipe",
+        "optionC": "Is",
+        "optionD": "tee",
+        "answer": "cat"
+    },
+	{
+        "id": "100069",
+        "question": "How will you see the system date?",
+        "optionA": "$ dd",
+        "optionB": "$ dy",
+        "optionC": "$ date",
+        "optionD": "$dt",
+        "answer": "$ date"
+    },
+	{
+        "id": "100070",
+        "question": "The location where the user enter user name is called as",
+        "optionA": "Login location",
+        "optionB": "Login user",
+        "optionC": "Login prompt",
+        "optionD": "Login name",
+        "answer": "Login prompt"
+    },
+	{
+        "id": "100071",
+        "question": "What is mainly used for creating, deleting and editing the files?",
+        "optionA": "Editors",
+        "optionB": "Compilers",
+        "optionC": "Interpreter",
+        "optionD": "Word processors",
+        "answer": "Editors"
+    },
+	{
+        "id": "100072",
+        "question": "All the users of the system who are not members of a project group are referred to as",
+        "optionA": "Group users",
+        "optionB": "File owner",
+        "optionC": "Group owner",
+        "optionD": "Other users",
+        "answer": "Other users"
+    },
+	{
+        "id": "100073",
+        "question": "The file name should not duplicate",
+        "optionA": "Command names",
+        "optionB": "Primary name",
+        "optionC": "First names",
+        "optionD": "System name",
+        "answer": "Command names"
+    },
+	{
+        "id": "100074",
+        "question": "We should be careful about the lower case and upper case letters when the system is",
+        "optionA": "Case sensitive",
+        "optionB": "Case caful",
+        "optionC": "Case destinictive",
+        "optionD": "Case respective",
+        "answer": "Case sensitive"
+    },
+	{
+        "id": "100075",
+        "question": "Which command is used to evaluate arithmetic expression?",
+        "optionA": "cat",
+        "optionB": "expre",
+        "optionC": "lets",
+        "answer": "expr"
+    },
+	{
+        "id": "100076",
+        "question": "Is command with the -a option will display",
+        "optionA": "sorted files",
+        "optionB": "all files including hidden fields",
+        "optionC": "all files",
+        "optionD": "sub directories",
+        "answer": "all files including hidden fields"
+    },
+	{
+        "id": "100077",
+        "question": "Which symbol allows you to search the pattern, backward in the text?",
+        "optionA": "plus (+)",
+        "optionB": "question mark (?)",
+        "optionC": "astrisk (*)",
+        "optionD": "slash (/)",
+        "answer": "question mark (?)"
+    },
+	{
+        "id": "100078",
+        "question": "Which keys are substituted for the cut facility?",
+        "optionA": "nyy",
+        "optionB": "nkk",
+        "optionC": "ndd",
+        "optionD": "nhh",
+        "answer": "ndd"
+    },
+	{
+        "id": "100079",
+        "question": "Which Directory is assigned to the user when he/she enters into the system for the first time, by the System Administrator (SA)?",
+        "optionA": "user",
+        "optionB": "home",
+        "optionC": "bin",
+        "optionD": "usr",
+        "answer": "home"
+    },
+	{
+        "id": "100080",
+        "question": "Which command creates a new shell?",
+        "optionA": "ah",
+        "optionB": "oh",
+        "optionC": "ch",
+        "optionD": "sh",
+        "answer": "sh"
+    },
+	{
+        "id": "100081",
+        "question": "The cd command stands for",
+        "optionA": "complete directory",
+        "optionB": "created directory",
+        "optionC": "change directory",
+        "optionD": "current directory",
+        "answer": "change directory"
+    },
+	{
+        "id": "100082",
+        "question": "This command formats a floppy _____",
+        "optionA": "mkfs",
+        "optionB": "mkf",
+        "optionC": "mks",
+        "optionD": "man",
+        "answer": "mkfs"
+    },
+	{
+        "id": "100083",
+        "question": "Which key should be pressed to save a file in line editing mode?",
+        "optionA": "x",
+        "optionB": "s",
+        "optionC": "n",
+        "optionD": "w",
+        "answer": "w"
+    },
+	{
+        "id": "100084",
+        "question": "Hard disk partition is prefixed by",
+        "optionA": "hd",
+        "optionB": "hda",
+        "optionC": "hda2",
+        "optionD": "dha",
+        "answer": "hd"
+    },
+	{
+        "id": "100085",
+        "question": "Which of the following command is used for prompting?",
+        "optionA": "man",
+        "optionB": "echo",
+        "optionC": "Is",
+        "optionD": "pwd",
+        "answer": "echo"
+    },
+	{
+        "id": "100086",
+        "question": "Which key open a new line and places the cursor in the beginning of that new line?",
+        "optionA": "P",
+        "optionB": "q",
+        "optionC": "l",
+        "optionD": "o",
+        "answer": "o"
+    },
+	{
+        "id": "100087",
+        "question": "Command Option starts with",
+        "optionA": "* astricks",
+        "optionB": "/ slash",
+        "optionC": "- minus",
+        "optionD": "+ plus",
+        "answer": "- minus"
+    },
+	{
+        "id": "100088",
+        "question": "Who developed an effective PC version of Unix for Minix users?",
+        "optionA": "Dennis Ritchie",
+        "optionB": "Ken Thomson",
+        "optionC": "Prof. Andrew S. Tannenbaum",
+        "optionD": "Linus Torvalds",
+        "answer": "Linus Torvalds"
+    },
+	{
+        "id": "100089",
+        "question": "Which command allows you to change a single character where the cursor is currently on?",
+        "optionA": "O",
+        "optionB": "r",
+        "optionC": "R",
+        "optionD": "O",
+        "answer": "r"
+    },
+	{
+        "id": "100090",
+        "question": "How will you go to a particular line number in Vi editor?",
+        "optionA": "line number R",
+        "optionB": "line number G",
+        "optionC": "line number B",
+        "optionD": "line number N",
+        "answer": "line number G"
+    },
+	{
+        "id": "100091",
+        "question": "Which of the option with the rm command removes including the subdirectories?",
+        "optionA": "-i",
+        "optionB": "-v",
+        "optionC": "-r",
+        "optionD": "-s",
+        "answer": "-r"
+    },
+	{
+        "id": "100092",
+        "question": "What is the key used to quit Vi editor?",
+        "optionA": ":q",
+        "optionB": "q",
+        "optionC": ":a!",
+        "optionD": "qi",
+        "answer": ":q"
+    },
+	{
+        "id": "100093",
+        "question": "Which sign is a substitute for our home directory?",
+        "optionA": "($) dollar",
+        "optionB": "(#) hash",
+        "optionC": "(*) astrisks",
+        "optionD": "(~) tilde",
+        "answer": "(~) tilde"
+    },
+	{
+        "id": "100094",
+        "question": "What is the reference of the second partition on the first hard drive?",
+        "optionA": "hd",
+        "optionB": "hda2",
+        "optionC": "hda",
+        "optionD": "dha",
+        "answer": "hda2"
+    },
+	{
+        "id": "100095",
+        "question": "Which command allows you to overwrite text?",
+        "optionA": "r",
+        "optionB": "R",
+        "optionC": "o",
+        "optionD": "O",
+        "answer": "R"
+    },
+	{
+        "id": "100096",
+        "question": "Which key places you in input mode in Vi editor after the character where the cursor is currently on?",
+        "optionA": "n",
+        "optionB": "i",
+        "optionC": "a",
+        "optionD": "s",
+        "answer": "a"
+    },
+	{
+        "id": "100097",
+        "question": "The pwd stands for",
+        "optionA": "path work device",
+        "optionB": "present work device",
+        "optionC": "parent working directory",
+        "optionD": "print working directory",
+        "answer": "print working directory"
+    },
+	{
+        "id": "100098",
+        "question": "The file owner can change the access permission by _____ command.",
+        "optionA": "chmod",
+        "optionB": "ahmod",
+        "optionC": "enmod",
+        "optionD": "ehmod",
+        "answer": "chmod"
+    },
+	{
+        "id": "100099",
+        "question": "What command removes the entire line that the cursor is presently on?",
+        "optionA": "nn",
+        "optionB": "ll",
+        "optionC": "xx",
+        "optionD": "dd",
+        "answer": "dd"
+    },
+	{
+        "id": "100100",
+        "question": "Which symbol is used to refer the contents of a variable?",
+        "optionA": "*",
+        "optionB": "%",
+        "optionC": "$",
+        "optionD": "#",
+        "answer": "$"
+    },
+	{
+        "id": "100101",
+        "question": "Establishing the connection between a file system on a storage device and our main directory tree is called as",
+        "optionA": "sharing",
+        "optionB": "changing",
+        "optionC": "mounting",
+        "optionD": "unmounting",
+        "answer": "mounting"
+    },
+	{
+        "id": "100102",
+        "question": "Which command takes the input from standard input and copies into a file?",
+        "optionA": "cat",
+        "optionB": "T pipe",
+        "optionC": "more",
+        "optionD": "tee",
+        "answer": "tee"
+    },
+	{
+        "id": "100103",
+        "question": "Which command allows you to change the entire contents of a line?",
+        "optionA": "cc",
+        "optionB": "nn",
+        "optionC": "cw",
+        "optionD": "dw",
+        "answer": "cc"
+    },
+	
+    {
+        "id": "100104",
+        "question": "In File Access Permission, what command gives the owner of the file the execute permission?",
+        "optionA": "s + x",
+        "optionB": "u + x",
+        "optionC": "o + x",
+        "optionD": "a + x",
+        "answer": "u + x"
+    }
+
+    
+]

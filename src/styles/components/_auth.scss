@@ -1,0 +1,94 @@
+.auth {
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+  width: 100vw;
+
+  section {
+    background-color: rgba(1, 1, 1, 0.8);
+    border-radius: 15px;
+    padding: 5rem $md 5rem $md;
+    margin: auto 0;
+    height: fit-content;
+    width: 30rem;
+  }
+
+  .cube {
+    font-size: 8rem;
+    color: $orange;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: $roboto;
+    font-size: $lg;
+    font-weight: 400;
+    text-align: center;
+    color: $off-white;
+  }
+
+  button.submit-button {
+    width: 100%;
+    background-color: $green;
+    border-radius: $button-radius;
+    border: none;
+    color: #fff;
+    display: block;
+    cursor: pointer;
+    padding: $normal;
+    text-align: center;
+    transition: 0.3s linear all;
+    margin-bottom: 20px;
+  }
+
+  button.submit-button:hover {
+    background-color: darken($green, 10%);
+    box-shadow: $shadow;
+  }
+
+  .text-white {
+    color: #fff;
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .submit {
+    margin-top: 20px;
+  }
+
+  .input-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .input-form {
+    color: #fff;
+    background-color: transparent;
+    border-radius: 10px;
+    font-size: 1.5em;
+  }
+
+  .back {
+    width: fit-content;
+    background-color: $off-black;
+    border-radius: 15px;
+    color: #fff;
+    display: block;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    transition: 0.3s linear all;
+    margin: 0.5rem auto;
+  }
+
+  .back:hover {
+    background-color: darken($off-black, 10%);
+  }
+
+  .error {
+    color: red;
+  }
+}
