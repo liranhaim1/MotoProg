@@ -86,6 +86,7 @@ function Play(props) {
   const questionSet = urlSplit[urlSplit.length - 1];
 
   const [counter, setCounter] = useState(0);
+  const [counterLimit, setCounterLimit] = useState(2);
   const [userRateCount, setUserCount] = useState(0);
   const [globalRateCounter, setGlobalCounter] = useState(0);
   const [questions, setQuestions] = useState([]);
@@ -151,10 +152,14 @@ function Play(props) {
     setGlobalCounter((globalRateCounter) => globalRateCounter + globalRate);
 
     //After 3 questions a check is made if the user rated the questions lower than their overall rating
-    if (counter == 2) {
+    if (counter == counterLimit ) {
       setCounter((counter) => 0);
+      setCounterLimit(((counterLimit) => counterLimit === 5 ? 5 : counterLimit + 1))
       if (userRateCount < globalRateCounter) {
-        console.log(`need return true`, globalRateCounter - userRateCount);
+        console.log(`need return true =>`, globalRateCounter - userRateCount);
+        console.log(`userrate =>`,userRateCount);
+        console.log(`globalrate =>`, globalRateCounter);
+        console.log(`counter =>`, counter );
         setUserCount((userRateCount) => 0);
         setGlobalCounter((globalRateCounter) => 0);
         return true;
@@ -396,7 +401,6 @@ function Play(props) {
                 />
               </div>
               <Typography variant="h6">Score: {calcScore()}</Typography>
-              <CircularProgressWithLabel value={calcScore()} />
               {/* <Timer onEnd={() => { }} totalSeconds={timerSeconds} /> */}
             </Stack>
             <ButtonBase
