@@ -42,7 +42,7 @@
     cursor: pointer;
   }
   margin: auto;
-  width: 65%;
+  max-width: 600px;
   justify-content: space-between;
 }
 
@@ -121,6 +121,14 @@
       padding: 1rem 0.5rem !important;
     }
   }
+}
+
+@media (max-width: 750px) {
+  .answers {
+    grid-template-columns: repeat(1, minmax(0, 1fr)); 
+    grid-template-rows: repeat(1, minmax(0, 1fr));
+  }
+  
 }
 
 

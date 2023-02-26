@@ -20,9 +20,9 @@ html, body, #root {
   background-image: url("../../assets/img/background.jpg");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   position: absolute;
-  height: 100vh;
+  height: 130vh;
   width: 100vw;
   z-index: -1;
   filter: blur(8px);

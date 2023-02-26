@@ -5,11 +5,11 @@ import { mapStateToProps, mapDispatchToProps } from "../../store";
 import { connect } from "react-redux";
 
 const Category = () => {
-    const navigate = useNavigate();
+  const navigate = useNavigate();
 
   const handleClick = (event) => {
     const category = event.target.textContent;
-    switch(category){
+    switch (category) {
       case 'Python':
         navigate("/play/Python");
         break;
@@ -18,26 +18,26 @@ const Category = () => {
         break;
       case 'OOP':
         navigate("/play/OOP");
-        break; 
+        break;
       case 'Operation Systems':
         navigate("/play/Operation");
-        break; 
+        break;
       case 'Linux':
         navigate("/play/Linux");
-        break; 
+        break;
       case 'General Questions':
         navigate("/play/General");
         break;
-     
-     
-      
+
+
+
     }
   };
 
-  const historyClick = () =>{
-    
+  const historyClick = () => {
+
     navigate("/play/history");
-        
+
   }
   return (
     <>
@@ -67,22 +67,20 @@ const Category = () => {
               General Questions
             </button>
           </div>
+
+
           
+         <div className='center' >
+         <button  className="button" onClick={historyClick}>
+            Game History
+          </button>
+
+         </div>
         </div>
       </div>
-      <div id="category">
-        <div className="bg-blur" />
-        <div className="container">
-       
-        <div className="grid">
-          </div>
-          <button className="button" onClick={historyClick}>
-              Game History
-            </button>
-        </div>
-      </div>
+
     </>
-    
+
   );
 };
 

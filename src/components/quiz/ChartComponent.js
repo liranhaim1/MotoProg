@@ -45,11 +45,11 @@ function ChartComponent() {
   return (
     <Fragment>
       <Helmet><title>Quiz App - Summary</title></Helmet>
-      <div style={{ width: '50%', margin: 'auto' }}>
+      {/* <div style={{ width: '50%', margin: 'auto' }}> */}
         <div className="donut">
-          <Chart options={chartOptions.chartOptions} series={chartOptions.series} type="donut" width="330" />
+          <Chart options={chartOptions.chartOptions} series={chartOptions.series} type="donut" height={250} />
         </div>
-      </div>
+      {/* </div> */}
     </Fragment>
   );
 

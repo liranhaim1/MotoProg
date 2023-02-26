@@ -82,7 +82,8 @@ function LineComponent() {
               options={createLine.options}
               series={createLine.series}
               type="bar"
-              width="500"
+              // width="500"
+              height={300}
             />
           </div>
         </div>

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3fb1024.css",
-    "main.js": "/static/js/main.40938eec.js",
+    "main.css": "/static/css/main.4d3c9531.css",
+    "main.js": "/static/js/main.a3ece0b0.js",
     "static/media/materialdesignicons-webfont.eot": "/static/media/materialdesignicons-webfont.a09e19a26c69d41759b6.eot",
     "static/media/materialdesignicons-webfont.ttf?v=7.1.96": "/static/media/materialdesignicons-webfont.74f12de10e15e784fb55.ttf",
     "static/media/materialdesignicons-webfont.woff?v=7.1.96": "/static/media/materialdesignicons-webfont.a20ebdc2830d7db8d98f.woff",
@@ -11,11 +11,11 @@
     "static/media/wrong-answer.mp3": "/static/media/wrong-answer.e08b616b298a5da45785.mp3",
     "static/media/button-sound.mp3": "/static/media/button-sound.8277ab8cffed4aaa3b2e.mp3",
     "index.html": "/index.html",
-    "main.b3fb1024.css.map": "/static/css/main.b3fb1024.css.map",
-    "main.40938eec.js.map": "/static/js/main.40938eec.js.map"
+    "main.4d3c9531.css.map": "/static/css/main.4d3c9531.css.map",
+    "main.a3ece0b0.js.map": "/static/js/main.a3ece0b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3fb1024.css",
-    "static/js/main.40938eec.js"
+    "static/css/main.4d3c9531.css",
+    "static/js/main.a3ece0b0.js"
   ]
 }
