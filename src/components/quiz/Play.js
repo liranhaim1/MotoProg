@@ -156,10 +156,6 @@ function Play(props) {
       setCounter((counter) => 0);
       setCounterLimit(((counterLimit) => counterLimit === 5 ? 5 : counterLimit + 1))
       if (userRateCount < globalRateCounter) {
-        console.log(`need return true =>`, globalRateCounter - userRateCount);
-        console.log(`userrate =>`,userRateCount);
-        console.log(`globalrate =>`, globalRateCounter);
-        console.log(`counter =>`, counter );
         setUserCount((userRateCount) => 0);
         setGlobalCounter((globalRateCounter) => 0);
         return true;
